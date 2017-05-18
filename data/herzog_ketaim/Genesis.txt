@@ -1,0 +1,1177 @@
+﻿רמה	מספר	מפרק	מפסוק	עד ספר	עד פרק	עד פסוק	חטיבה (1)	אנגלית	יחידה (2)	אנגלית	פירוט (3)	אנגלית															
+1	בראשית	א	א	בראשית	יא	לב	ראשית	The Beginning																			
+	בראשית	א	א	בראשית	ב	ג	ראשית	The Beginning	בריאת העולם	Creation																	
+	בראשית	א	א	בראשית	א	ב	ראשית	The Beginning	בריאת העולם	Creation	פתיחה לפרשת הבריאה	Introduction to Creation															
+	בראשית	א	ג	בראשית	א	ה	ראשית	The Beginning	בריאת העולם	Creation	יום אחד	Day One															
+	בראשית	א	ו	בראשית	א	ח	ראשית	The Beginning	בריאת העולם	Creation	יום שני	Day Two	E														
+	בראשית	א	ט	בראשית	א	יג	ראשית	The Beginning	בריאת העולם	Creation	יום שלישי	Day Three	E														
+	בראשית	א	יד	בראשית	א	יט	ראשית	The Beginning	בריאת העולם	Creation	יום רביעי	Day Four	E														
+	בראשית	א	כ	בראשית	א	כג	ראשית	The Beginning	בריאת העולם	Creation	יום חמישי	Day Five	E														
+	בראשית	א	כד	בראשית	א	לא	ראשית	The Beginning	בריאת העולם	Creation	יום השישי	Day Six	E														
+	בראשית	ב	א	בראשית	ב	ג	ראשית	The Beginning	בריאת העולם	Creation	יום השביעי	Day Seven															
+	בראשית	ב	ד	בראשית	ג	כד	ראשית	The Beginning	האדם וגן עדן	Garden of Eden																	
+	בראשית	ב	ד	בראשית	ב	ז	ראשית	The Beginning	האדם וגן עדן	Garden of Eden	יצירת האדם	Creation of Man	מופיע פעמיים בשתי שפות...														
+	בראשית	ב	ח	בראשית	ב	טו	ראשית	The Beginning	האדם וגן עדן	Garden of Eden	הצבת האדם בגן	Adam is Placed in the Garden of Eden															
+	בראשית	ב	טז	בראשית	ב	יח	ראשית	The Beginning	האדם וגן עדן	Garden of Eden	איסור האכילה מעץ הדעת	The Tree of Knowledge															
+	בראשית	ב	יח	בראשית	ב	כה	ראשית	The Beginning	האדם וגן עדן	Garden of Eden	יצירת האשה	Creation of Woman															
+	בראשית	ג	א	בראשית	ג	ז	ראשית	The Beginning	האדם וגן עדן	Garden of Eden	חטא עץ הדעת	The Sin of the Tree of Knowledge															
+	בראשית	ג	ח	בראשית	ג	כא	ראשית	The Beginning	האדם וגן עדן	Garden of Eden	העונש	Punishment 															
+	בראשית	ג	כב	בראשית	ג	כד	ראשית	The Beginning	האדם וגן עדן	Garden of Eden	גירוש האדם מגן עדן	Banishment from the Garden of Eden															
+	בראשית	ד	א	בראשית	ד	טז	ראשית	The Beginning	קין והבל	Cain and Hevel																	
+	בראשית	ד	א	בראשית	ד	ז	ראשית	The Beginning	קין והבל	Cain and Hevel	קין והבל ומנחתם	Cain and Hevel's Offerings															
+	בראשית	ד	ח	בראשית	ד	ח	ראשית	The Beginning	קין והבל	Cain and Hevel	הריגת קין את הבל	Cain Kills Hevel															
+	בראשית	ד	ט	בראשית	ד	טז	ראשית	The Beginning	קין והבל	Cain and Hevel	עונשו של קין	Cain's Punishment															
+	בראשית	ד	יז	בראשית	ה	לב	ראשית	The Beginning	ספרי תולדות	Book of Descendants																	
+	בראשית	ד	יז	בראשית	ד	יח	ראשית	The Beginning	ספרי תולדות		תולדות קין	Cain's Descendants															
+	בראשית	ד	יט	בראשית	ד	כד	ראשית	The Beginning	ספרי תולדות		"למך, נשיו ובניו"	Lemekh's Wives and Descendants															
+	בראשית	ד	כה	בראשית	ד	כו	ראשית	The Beginning	ספרי תולדות		לידת שת ואנוש	The Birth of Shet and Enosh															
+	בראשית	ה	א	בראשית	ה	לב	ראשית	The Beginning	ספרי תולדות		תולדות אדם עד נח	Generations from Adam to Noah															
+	בראשית	ו	א	בראשית	ו	ד	ראשית	The Beginning	בני האלהים ובנות האדם	The Sons of God and Daughters of Man																	
+	בראשית	ו	ה	בראשית	ט	יז	ראשית	The Beginning	המבול	The Flood																	
+	בראשית	ו	ה	בראשית	ו	יב	ראשית	The Beginning	המבול		השחתת הארץ וצדקת נח	The Corruption of the Land and Noah's Righteousness															
+	בראשית	ו	יג	בראשית	ז	ט	ראשית	The Beginning	המבול		בניית התיבה	Noah Builds an Ark															
+	בראשית	ז	י	בראשית	ז	כד	ראשית	The Beginning	המבול		המבול ומחיית היקום	The Flood and the Destruction															
+	בראשית	ח	א	בראשית	ח	יד	ראשית	The Beginning	המבול		סיום המבול	The End of the Flood															
+	בראשית	ח	טו	בראשית	ח	כב	ראשית	The Beginning	המבול		היציאה מן התיבה	Leaving the Ark															
+	בראשית	ט	א	בראשית	ט	ז	ראשית	The Beginning	המבול		הברכה לנח	God Blesses Noah															
+	בראשית	ט	ח	בראשית	ט	יז	ראשית	The Beginning	המבול		ברית הקשת	The Rainbow Covenant															
+	בראשית	ט	יח	בראשית	יא	ט	ראשית	The Beginning	בני נח והפצתם על הארץ	Noah's Descendants 																	
+	בראשית	ט	יח	בראשית	ט	כט	ראשית	The Beginning	בני נח והפצתם על הארץ		שכרות נח	Noah's Drunkenness															
+	בראשית	י	א	בראשית	י	לב	ראשית	The Beginning	בני נח והפצתם על הארץ		תולדות בני נח	Descendants of Noah's Sons															
+	בראשית	יא	א	בראשית	יא	ט	ראשית	The Beginning	בני נח והפצתם על הארץ		מגדל בבל	The Tower of Bavel															
+	בראשית	יא	י	בראשית	יא	לב	ראשית	The Beginning	מנח עד אברהם	From Noah to Avraham																	
+	בראשית	יא	י	בראשית	יא	כו	ראשית	The Beginning	מנח עד אברהם		תולדות שם עד תרח	From Shem to Terah															
+	בראשית	יא	כז	בראשית	יא	לב	ראשית	The Beginning	מנח עד אברהם		תולדות תרח והליכתו לחרן	Terah and his Departure for Haran															
+2	בראשית	יב	א	בראשית	כה	יח	אברהם	Avraham																			
+	בראשית	יב	א	בראשית	יב	ט	אברהם	Avraham	הליכת אברם לארץ כנען	Avram's Journey to Canaan																	
+	בראשית	יב	א	בראשית	יב	ה	אברהם	Avraham	הליכת אברם לארץ כנען		היציאה מחרן לכנען	Departure from Haran to Canaan															
+	בראשית	יב	ו	בראשית	יב	ט	אברהם	Avraham	הליכת אברם לארץ כנען		הליכה בארץ וקריאה בשם ה'	Avram Walks through Canaan and Calls in the Name of God 															
+	בראשית	יב	י	בראשית	יב	כ	אברהם	Avraham	ירידת אברם למצרים	Avram's Descent to Egypt																	
+	בראשית	יב	י	בראשית	יב	י	אברהם	Avraham	ירידת אברם למצרים		הרעב בכנען והירידה למצרים	The Famine in Canaan and the Descent to Egypt															
+	בראשית	יב	יא	בראשית	יב	כ	אברהם	Avraham	ירידת אברם למצרים		לקיחת שרי לבית פרעה	Sarai is Taken to Pharaoh's Palace															
+	בראשית	יג	א	בראשית	יג	יח	אברהם	Avraham	פרידת לוט מאברם	Lot Separates from Avraham																	
+	בראשית	יג	א	בראשית	יג	ד	אברהם	Avraham	פרידת לוט מאברם		חזרת אברם לארץ כנען	Avram Returns to Canaan															
+	בראשית	יג	ה	בראשית	יג	יג	אברהם	Avraham	פרידת לוט מאברם		הפרידה	The Separation															
+	בראשית	יג	יד	בראשית	יג	יח	אברהם	Avraham	פרידת לוט מאברם		הבטחת הארץ לאברם	God Promises Avram the Land of Canaan															
+	בראשית	יד	א	בראשית	יד	כד	אברהם	Avraham	מלחמת המלכים	War of the Kings																	
+	בראשית	יד	א	בראשית	יד	יב	אברהם	Avraham	מלחמת המלכים		המלחמה ולקיחת לוט בשבי	The War of the Kings and Lot's Captivity															
+	בראשית	יד	יג	בראשית	יד	טז	אברהם	Avraham	מלחמת המלכים		נצחון אברם ושחרור לוט	Avraham's Victory and Release of Lot															
+	בראשית	יד	יז	בראשית	יד	כד	אברהם	Avraham	מלחמת המלכים		מלכיצדק ומלך סדום	Malkitzedek and the King of Sodom															
+	בראשית	טו	א	בראשית	טו	כא	אברהם	Avraham	ברית בין הבתרים	Covenant Between the Pieces																	
+	בראשית	טו	א	בראשית	טו	ו	אברהם	Avraham	ברית בין הבתרים		הבטחת זרע לאברם	Avram is Promised a Child															
+	בראשית	טו	ז	בראשית	טו	כא	אברהם	Avraham	ברית בין הבתרים		הברית	The Covenant															
+	בראשית	טז	א	טז	טז	טז	אברהם	Avraham	לידת ישמעאל	The Birth of Yishmael																	
+	בראשית	טז	א	טז	טז	ד	אברהם	Avraham	לידת ישמעאל		נתינת הגר לאברם	The Giving of Hagar to Avraham															
+	בראשית	טז	ה	טז	טז	ו	אברהם	Avraham	לידת ישמעאל		כעס שרי ובריחת הגר	Sarai is Harsh and Hagar Flees															
+	בראשית	טז	ז	טז	טז	טז	אברהם	Avraham	לידת ישמעאל		נבואת המלאך ולידת ישמעאל	The Angel's Prophecy and the Birth of Yishmael															
+	בראשית	יז	א	בראשית	יז	כז	אברהם	Avraham	ברית המילה	The Covenant of Circumcision																	
+	בראשית	יז	א	בראשית	יז	ח	אברהם	Avraham	ברית המילה		שינוי השם לאברהם	Avram's Name is Changed to Avraham															
+	בראשית	יז	ט	בראשית	יז	יד	אברהם	Avraham	ברית המילה		ציווי על המילה	God Commands Circumcision															
+	בראשית	יז	טו	בראשית	יז	כב	אברהם	Avraham	ברית המילה		שינוי השם לשרה ובשורת הבן	Sarai's Name is Changed to Sarah and is Promised a Son															
+	בראשית	יז	כג	בראשית	יז	כז	אברהם	Avraham	ברית המילה		קיום המילה	The Circumcision															
+	בראשית	יח	א	בראשית	יט	לח	אברהם	Avraham	ביקור המלאכים והפיכת סדום	Avraham's Visitors and the Destruction of Sodom																	
+	בראשית	יח	א	בראשית	יח	ח	אברהם	Avraham	ביקור המלאכים והפיכת סדום		המלאכים באוהל אברהם	The Messengers in Avraham's Tent															
+	בראשית	יח	ט	בראשית	יח	טו	אברהם	Avraham	ביקור המלאכים והפיכת סדום		בשורת הבן וצחוק שרה	The Birth Announcement and Sarah's Laughter															
+	בראשית	יח	טז	בראשית	יח	לג	אברהם	Avraham	ביקור המלאכים והפיכת סדום		תפילת אברהם על סדום	Avraham Prays for Sodom															
+	בראשית	יט	א	בראשית	יט	ט	אברהם	Avraham	ביקור המלאכים והפיכת סדום		המלאכים בסדום	The Angels in Sodom															
+	בראשית	יט	י	בראשית	יט	כג	אברהם	Avraham	ביקור המלאכים והפיכת סדום		הצלת לוט ומשפחתו	Lot and his Family are Rescued															
+	בראשית	יט	כד	בראשית	יט	כט	אברהם	Avraham	ביקור המלאכים והפיכת סדום		הפיכת סדום ועמורה	The Destruction of Sodom and Amorah															
+	בראשית	יט	ל	בראשית	יט	לח	אברהם	Avraham	ביקור המלאכים והפיכת סדום		מעשה בנות לוט	Lot's Daughters															
+	בראשית	כ	א	בראשית	כ	יח	אברהם	Avraham	שרה בבית אבימלך	Sarah in Avimelekh's Palace																	
+	בראשית	כ	א	בראשית	כ	ב	אברהם	Avraham	שרה בבית אבימלך		לקיחת שרה לאבימלך	Sarah is Taken to Avimelekh's Palace															
+	בראשית	כ	ג	בראשית	כ	ח	אברהם	Avraham	שרה בבית אבימלך		אזהרת ה' לאבימלך בחלום	God warns Avimelekh in a Prophetic Dream															
+	בראשית	כ	ט	בראשית	כ	יג	אברהם	Avraham	שרה בבית אבימלך		שיחת אבימלך ואברהם	Avimelekh and Avraham Speak															
+	בראשית	כ	יד	בראשית	כ	יח	אברהם	Avraham	שרה בבית אבימלך		השבת שרה ותפילת אברהם	Sarah is Returned and Avraham Prays for Avimelekh															
+	בראשית	כא	א	בראשית	כא	כא	אברהם	Avraham	לידת יצחק וגירוש ישמעאל	Yitzhak and Yishmael																	
+	בראשית	כא	א	בראשית	כא	ח	אברהם	Avraham	לידת יצחק וגירוש ישמעאל		לידת יצחק	The Birth of Yitzhak															
+	בראשית	כא	ט	בראשית	כא	טז	אברהם	Avraham	לידת יצחק וגירוש ישמעאל		גירוש הגר וישמעאל	Hagar and Yishmael are Banished															
+	בראשית	כא	יז	בראשית	כא	כא	אברהם	Avraham	לידת יצחק וגירוש ישמעאל		התגלות המלאך להגר	Hagar's Revelation															
+	בראשית	כא	כב	בראשית	כא	לד	אברהם	Avraham	ברית אברהם ואבימלך	Avraham and Avimelekh																	
+	בראשית	כב	א	בראשית	כב	יט	אברהם	Avraham	עקדת יצחק	Akeidat Yitzhak																	
+	בראשית	כב	א	בראשית	כב	יד	אברהם	Avraham	עקדת יצחק		העקדה	The Akeida - the Binding															
+	בראשית	כב	טו	בראשית	כב	יט	אברהם	Avraham	עקדת יצחק		הברכה לאברהם	God Blesses Avraham															
+	בראשית	כב	כ	בראשית	כב	כד	אברהם	Avraham	תולדות נחור אחי אברהם	"Descendants of Avraham's Brother, Nahor"																	
+	בראשית	כג	א	בראשית	כג	כ	אברהם	Avraham	קניית מערת המכפלה	Purchase of the Makhpela Cave																	
+	בראשית	כג	א	בראשית	כג	ב	אברהם	Avraham	קניית מערת המכפלה		מות שרה	Sarah's Death															
+	בראשית	כג	ג	בראשית	כג	כ	אברהם	Avraham	קניית מערת המכפלה		קניית השדה והמערה	Avraham Purchases the Field and the Cave															
+	בראשית	כד	א	בראשית	כד	סז	אברהם	Avraham	בחירת אשה ליצחק	Finding a Wife for Yitzhak																	
+	בראשית	כד	א	בראשית	כד	י	אברהם	Avraham	בחירת אשה ליצחק		שליחות עבד אברהם	Avraham's Servant is Sent to Find a Wife															
+	בראשית	כד	יא	בראשית	כד	יד	אברהם	Avraham	בחירת אשה ליצחק		תפילת העבד על הבאר	The Servant Prays by the Well															
+	בראשית	כד	טו	בראשית	כד	כז	אברהם	Avraham	בחירת אשה ליצחק		פגישת העבד ורבקה	The Servant Meets Rivka															
+	בראשית	כד	כח	בראשית	כד	לג	אברהם	Avraham	בחירת אשה ליצחק		הזמנת העבד לבית בתואל	The Servant is Invited to Betuel's Home															
+	בראשית	כד	לד	בראשית	כד	מט	אברהם	Avraham	בחירת אשה ליצחק		העבד בבית בתואל	The Servant in the House of Betuel															
+	בראשית	כד	נ	בראשית	כד	סא	אברהם	Avraham	בחירת אשה ליצחק		שילוח רבקה עם העבד	Rivka is Sent with the Servant															
+	בראשית	כד	סב	בראשית	כד	סז	אברהם	Avraham	בחירת אשה ליצחק		פגישת יצחק ורבקה ונישואיהם	Yitzhak and Rivka Meet and are Married															
+	בראשית	כה	א	בראשית	כה	יח	אברהם	Avraham	צאצאי אברהם ומותו	Avraham's Descendants and Death																	
+	בראשית	כה	א	בראשית	כה	ד	אברהם	Avraham	צאצאי אברהם ומותו		בני אברהם וקטורה	Avraham and Keturah's Sons															
+	בראשית	כה	ה	בראשית	כה	ו	אברהם	Avraham	צאצאי אברהם ומותו		שילוח בני הפילגשים	The Concubines' Sons are Sent Away															
+	בראשית	כה	ז	בראשית	כה	יא	אברהם	Avraham	צאצאי אברהם ומותו		מות אברהם וקבורתו	Avraham's Death and Burial															
+	בראשית	כה	יב	בראשית	כה	יח	אברהם	Avraham	צאצאי אברהם ומותו		תולדות ישמעאל	Yishmael's Descendants															
+3	בראשית	כה	יט	בראשית	כח	ט	יצחק	Yitzhak		Yitzhak																	
+	בראשית	כה	יט	בראשית	כה	לד	יצחק	Yitzhak	יעקב ועשו	Yaakov and Esav																	
+	בראשית	כה	יט	בראשית	כה	כו	יצחק	Yitzhak	יעקב ועשו		לידת יעקב ועשו	Birth of Yaakov and Esav															
+	בראשית	כה	כז	בראשית	כה	לד	יצחק	Yitzhak	יעקב ועשו		מכירת הבכורה ליעקב	Esav Sells the Birthright to Yaakov															
+	בראשית	כו	א	בראשית	כו	לג	יצחק	Yitzhak	יצחק ואבימלך	Yitzhak and Avimelekh																	
+	בראשית	כו	א	בראשית	כו	ה	יצחק	Yitzhak	יצחק ואבימלך		הבטחת הארץ והזרע	God Promises Yitzhak Land and Offspring															
+	בראשית	כו	ו	בראשית	כו	יא	יצחק	Yitzhak	יצחק ואבימלך		יצחק ורבקה בגרר	Yitzhak and Rivka in Gerar															
+	בראשית	כו	יב	בראשית	כו	יז	יצחק	Yitzhak	יצחק ואבימלך		התעשרות יצחק	Yitzhak's Success 															
+	בראשית	כו	יח	בראשית	כו	כב	יצחק	Yitzhak	יצחק ואבימלך		הריב על בארות המים	The Quarrel over the Wells															
+	בראשית	כו	כג	בראשית	כו	כה	יצחק	Yitzhak	יצחק ואבימלך		התגלות ה' בבאר שבע	God's Revelation to Yitzhak in Be'er Sheva															
+	בראשית	כו	כו	בראשית	כו	לג	יצחק	Yitzhak	יצחק ואבימלך		ברית יצחק ואבימלך	The Covenant of Yitzhak and Avimelekh															
+	בראשית	כו	לד	בראשית	כו	לה	יצחק	Yitzhak	נישואי עשו	Esav's Marriage																	
+	בראשית	כז	א	בראשית	כח	ט	יצחק	Yitzhak	ברכות יצחק לבניו	Yitzhak Blesses his Sons																	
+	בראשית	כז	א	בראשית	כז	ד	יצחק	Yitzhak	ברכות יצחק לבניו		בקשת יצחק מעשו	Yitzhak's Request of Esav															
+	בראשית	כז	ה	בראשית	כז	יז	יצחק	Yitzhak	ברכות יצחק לבניו		תכנית רבקה	Rivka's Plan															
+	בראשית	כז	יח	בראשית	כז	כט	יצחק	Yitzhak	ברכות יצחק לבניו		ברכת יצחק ליעקב	Yitzhak Blesses Yaakov															
+	בראשית	כז	ל	בראשית	כז	מ	יצחק	Yitzhak	ברכות יצחק לבניו		חזרת עשו וברכתו	Esav's Return and his Blessing															
+	בראשית	כז	מא	בראשית	כז	מה	יצחק	Yitzhak	ברכות יצחק לבניו		עצת רבקה	Rivka Devises to Send Yaakov Away															
+	בראשית	כז	מו	בראשית	כח	ה	יצחק	Yitzhak	ברכות יצחק לבניו		ברכת יצחק ליעקב	Yitzhak Blesses Yaakov and Sends him to Haran															
+	בראשית	כח	ו	בראשית	כח	ט	יצחק	Yitzhak	ברכות יצחק לבניו		נישואי עשו השניים	Esav's Second Marriage - to Yishmael's Daughter															
+4	בראשית	כח	י	בראשית	לו	מג	יעקב	Yaakov																			
+	בראשית	כח	י	בראשית	לא	נה	יעקב	Yaakov	יעקב בחרן	Yaakov in Haran																	
+	בראשית	כח	י	בראשית	כח	כב	יעקב	Yaakov	יעקב בחרן		חלום הסולם	The Ladder Dream															
+	בראשית	כט	א	בראשית	כט	יד	יעקב	Yaakov	יעקב בחרן		פגישת יעקב ורחל	Yaakov Meets Rachel															
+	בראשית	כט	טו	בראשית	כט	ל	יעקב	Yaakov	יעקב בחרן		נישואי יעקב	Yaaov's Marriages															
+	בראשית	כט	לא	בראשית	ל	כד	יעקב	Yaakov	יעקב בחרן		לידת בני יעקב	The Births of Yaakov's Children															
+	בראשית	ל	כה	בראשית	ל	מג	יעקב	Yaakov	יעקב בחרן		התעשרות יעקב	Yaakov's Success															
+	בראשית	לא	א	בראשית	לא	כא	יעקב	Yaakov	יעקב בחרן		בריחת יעקב מבית לבן	Yaakov Flees from Lavan's Home															
+	בראשית	לא	כב	בראשית	לא	נה	יעקב	Yaakov	יעקב בחרן		פגישת לבן ויעקב	Lavan and Yaakov Meet															
+	בראשית	לב	א	בראשית	לה	כט	יעקב	Yaakov	חזרת יעקב לארץ כנען	Yaakov Returns to Canaan																	
+	בראשית	לב	א	בראשית	לב	ב	יעקב	Yaakov	חזרת יעקב לארץ כנען		התגלות מלאכים ליעקב	Yaakov's Revelation															
+	בראשית	לב	ג	בראשית	לב	כג	יעקב	Yaakov	חזרת יעקב לארץ כנען		ההכנות לפגישה עם עשו	Yaakov Prepares to Meet Esav															
+	בראשית	לב	כד	בראשית	לב	לב	יעקב	Yaakov	חזרת יעקב לארץ כנען		המאבק עם המלאך	The Struggle with the Angel															
+	בראשית	לג	א	בראשית	לג	יז	יעקב	Yaakov	חזרת יעקב לארץ כנען		הפגישה עם עשו	Yaakov and Esav Meet															
+	בראשית	לג	יח	בראשית	לג	כ	יעקב	Yaakov	חזרת יעקב לארץ כנען		הצבת מזבח בשכם	Yaakov Erects an Altar in Shechem															
+	בראשית	לד	א	בראשית	לד	לא	יעקב	Yaakov	חזרת יעקב לארץ כנען		מעשה דינה בשכם	Deena in Shechem															
+	בראשית	לה	א	בראשית	לה	טו	יעקב	Yaakov	חזרת יעקב לארץ כנען		יעקב בבית אל	Yaakov in Beit El															
+	בראשית	לה	טז	בראשית	לה	כא	יעקב	Yaakov	חזרת יעקב לארץ כנען		לידת בנימין ומות רחל	Rachel Dies Giving Birth to Binyamin															
+	בראשית	לה	כב	בראשית	לה	כב	יעקב	Yaakov	חזרת יעקב לארץ כנען		מעשה ראובן ובלהה	Reuven and Bilhah															
+	בראשית	לה	כג	בראשית	לה	כט	יעקב	Yaakov	חזרת יעקב לארץ כנען		שמות בני יעקב ומות יצחק	Yaakov's Descendants and Yitzhak's Death															
+	בראשית	לו	א	בראשית	לו	מג	יעקב	Yaakov	תולדות עשו	Esav's Descendants																	
+5	בראשית	לז	א	בראשית	נ	כו	יוסף ואחיו	Yosef																			
+	בראשית	לז	א	בראשית	לז	לו	יוסף ואחיו	Yosef	מכירת יוסף	The Selling of Yosef																	
+	בראשית	לז	א	בראשית	לז	ד	יוסף ואחיו	Yosef	מכירת יוסף		התנהגות יוסף ואהבת יעקב	Yosef's Behavior and Yaakov's Love															
+	בראשית	לז	ה	בראשית	לז	יא	יוסף ואחיו	Yosef	מכירת יוסף		חלומות יוסף	Yosef's Dreams															
+	בראשית	לז	יב	בראשית	לז	ל	יוסף ואחיו	Yosef	מכירת יוסף		המכירה	The Selling of Yosef															
+	בראשית	לז	לא	בראשית	לז	לו	יוסף ואחיו	Yosef	מכירת יוסף		הבאת הכתונת ואבל יעקב	Yosef's Coat is Brought and Yaakov Mourns															
+	בראשית	לח	א	בראשית	לח	ל	יוסף ואחיו	Yosef	מעשה יהודה ותמר	Yehuda and Tamar																	
+	בראשית	לח	א	בראשית	לח	ה	יוסף ואחיו	Yosef	מעשה יהודה ותמר		נישואי יהודה ולידת בניו	Yehuda's Marriage and Sons															
+	בראשית	לח	ו	בראשית	לח	יא	יוסף ואחיו	Yosef	מעשה יהודה ותמר		חטאי ער ואונן ומותם	The Sin and Death of Er and Onan															
+	בראשית	לח	יב	בראשית	לח	כו	יוסף ואחיו	Yosef	מעשה יהודה ותמר		מעשה תמר	The Incident with Tamar															
+	בראשית	לח	כז	בראשית	לח	ל	יוסף ואחיו	Yosef	מעשה יהודה ותמר		לידת פרץ וזרח	The Birth of Zerah and Peretz															
+	בראשית	לט	א	בראשית	לט	כ	יוסף ואחיו	Yosef	יוסף בבית פוטיפר	Yosef in Potiphar's House																	
+	בראשית	לט	א	בראשית	לט	ו	יוסף ואחיו	Yosef	יוסף בבית פוטיפר		הצלחת יוסף בבית פוטיפר	Yosef's Success in Potiphar's House															
+	בראשית	לט	ז	בראשית	לט	יח	יוסף ואחיו	Yosef	יוסף בבית פוטיפר		אשת פוטיפר ויוסף	Yosef and Potiphar's Wife															
+	בראשית	לט	יט	בראשית	לט	כ	יוסף ואחיו	Yosef	יוסף בבית פוטיפר		הכנסת יוסף לבית הסוהר	Yosef is Sent to Jail															
+	בראשית	לט	כא	בראשית	מ	כג	יוסף ואחיו	Yosef	יוסף בבית הסוהר	Yosef in Jail																	
+	בראשית	לט	כ	בראשית	לט	כג	יוסף ואחיו	Yosef	יוסף בבית הסוהר		הצלחת יוסף בבית הסוהר	Yosef's Success in Jail															
+	בראשית	מ	א	בראשית	מ	יט	יוסף ואחיו	Yosef	יוסף בבית הסוהר		חלומות שרי פרעה	The Dreams of the Cup-Bearer and Chief Baker															
+	בראשית	מ	כ	בראשית	מ	כג	יוסף ואחיו	Yosef	יוסף בבית הסוהר		התגשמות החלומות	Yosef's Interpretation is Realized															
+	בראשית	מא	א	בראשית	מא	נז	יוסף ואחיו	Yosef	עליית יוסף לגדולה	Yosef's Rise to Power																	
+	בראשית	מא	א	בראשית	מא	ז	יוסף ואחיו	Yosef	עליית יוסף לגדולה		חלומות פרעה	Pharaoh's Dreams															
+	בראשית	מא	ח	בראשית	מא	יד	יוסף ואחיו	Yosef	עליית יוסף לגדולה		יוסף לפני פרעה	Yosef is Brought Before Pharaoh															
+	בראשית	מא	טו	בראשית	מא	לז	יוסף ואחיו	Yosef	עליית יוסף לגדולה		סיפור החלומות ליוסף ופתרונם	Yosef Interprets Pharaoh's Dreams															
+	בראשית	מא	לח	בראשית	מא	מו	יוסף ואחיו	Yosef	עליית יוסף לגדולה		מינוי יוסף לשליט מצרים	Yosef is Placed in Charge of Egypt															
+	בראשית	מא	מז	בראשית	מא	נב	יוסף ואחיו	Yosef	עליית יוסף לגדולה		שנות השובע ולידת בני יוסף	The Years of Plenty and Birth of Yosef's Sons															
+	בראשית	מא	נג	בראשית	מא	נז	יוסף ואחיו	Yosef	עליית יוסף לגדולה		תחילת הרעב	The Famine															
+	בראשית	מב	א	בראשית	מה	כח	יוסף ואחיו	Yosef	אחי יוסף במצרים	Yosef's Brothers in Egypt																	
+	בראשית	מב	א	בראשית	מב	ה	יוסף ואחיו	Yosef	אחי יוסף במצרים		ירידת האחים למצרים	The Brothers Descend to Egypt															
+	בראשית	מב	ו	בראשית	מב	כה	יוסף ואחיו	Yosef	אחי יוסף במצרים		התנכרות יוסף לאחים	Yosef Acts as a Stranger toward his Brothers															
+	בראשית	מב	כו	בראשית	מב	לח	יוסף ואחיו	Yosef	אחי יוסף במצרים		חזרת האחים לכנען	The Brothers Return to Canaan															
+	בראשית	מג	א	בראשית	מג	יד	יוסף ואחיו	Yosef	אחי יוסף במצרים		הורדת בנימין למצרים	Binyamin is Brought to Egypt															
+	בראשית	מג	טו	בראשית	מג	לד	יוסף ואחיו	Yosef	אחי יוסף במצרים		האחים בבית יוסף	The Brothers in the House of Yosef															
+	בראשית	מד	א	בראשית	מד	יז	יוסף ואחיו	Yosef	אחי יוסף במצרים		עלילת הגביע	The Plot of the Silver Cup															
+	בראשית	מד	יח	בראשית	מד	לד	יוסף ואחיו	Yosef	אחי יוסף במצרים		נאום יהודה	Yehuda's Speech															
+	בראשית	מה	א	בראשית	מה	טו	יוסף ואחיו	Yosef	אחי יוסף במצרים		התוודעות יוסף לאחיו	Yosef Reveals his Identity to his Brothers															
+	בראשית	מה	טז	בראשית	מה	כה	יוסף ואחיו	Yosef	אחי יוסף במצרים		הזמנת פרעה את יעקב ובניו	Pharaoh Invites Yaakov and his Sons															
+	בראשית	מה	כו	בראשית	מה	כח	יוסף ואחיו	Yosef	אחי יוסף במצרים		בשורת עוד יוסף חי	Yaakov is Told that Yosef is Alive															
+	בראשית	מו	א	בראשית	מז	כז	יוסף ואחיו	Yosef	ירידת יעקב וביתו למצרים	Yaakov and his Household Descend to Egypt																	
+	בראשית	מו	א	בראשית	מו	ד	יוסף ואחיו	Yosef	ירידת יעקב וביתו למצרים		התגלות ה' ליעקב	God's Revelation to Yaakov in Be'er Sheva															
+	בראשית	מו	ה	בראשית	מו	ז	יוסף ואחיו	Yosef	ירידת יעקב וביתו למצרים		הירידה למצרים	Yaakov's Descent to Egypt															
+	בראשית	מו	ח	בראשית	מו	כז	יוסף ואחיו	Yosef	ירידת יעקב וביתו למצרים		שמות היורדים מצרימה	List of those Descending to Egypt															
+	בראשית	מו	כח	בראשית	מו	ל	יוסף ואחיו	Yosef	ירידת יעקב וביתו למצרים		פגישת יעקב ויוסף	Yaakov and Yosef Reunite															
+	בראשית	מו	לא	בראשית	מז	יב	יוסף ואחיו	Yosef	ירידת יעקב וביתו למצרים		הפגישה עם פרעה	Yaakov and his Sons Meet Pharaoh															
+	בראשית	מז	יג	בראשית	מז	כז	יוסף ואחיו	Yosef	ירידת יעקב וביתו למצרים		הסדרים שהתקין יוסף במצרים	Yosef Manages the Famine in Egypt															
+	בראשית	מז	כח	בראשית	נ	כו	יוסף ואחיו	Yosef	דברי יעקב האחרונים	Yaakov's Final Words																	
+	בראשית	מז	כח	בראשית	מז	לא	יוסף ואחיו	Yosef	דברי יעקב האחרונים		צוואת יעקב ליוסף והשבעתו	Yaakov's Will to Yosef and Yosef's Oath															
+	בראשית	מח	א	בראשית	מח	כב	יוסף ואחיו	Yosef	דברי יעקב האחרונים		ברכות יעקב לאפרים ומנשה	Yaakov Blesses Ephraim and Menashe															
+	בראשית	מט	א	בראשית	מט	כח	יוסף ואחיו	Yosef	דברי יעקב האחרונים		ברכות יעקב לשבטים	Yaakov Blesses his Sons															
+	בראשית	מט	כט	בראשית	מט	לב	יוסף ואחיו	Yosef	דברי יעקב האחרונים		צוואת יעקב לבניו	Yaakov's Will to his Sons															
+	בראשית	מט	לג	בראשית	נ	יד	יוסף ואחיו	Yosef	דברי יעקב האחרונים		מות יעקב וקבורתו	Yaakov's Death and Burial															
+	בראשית	נ	טו	בראשית	נ	כא	יוסף ואחיו	Yosef	דברי יעקב האחרונים		פיוס יוסף ואחיו	The Reconciliation of Yosef and His Brothers															
+	בראשית	נ	כב	בראשית	נ	כו	יוסף ואחיו	Yosef	דברי יעקב האחרונים		צוואת יוסף ומותו	Yosef's Will and Death															
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
