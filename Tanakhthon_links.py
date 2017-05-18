@@ -1,10 +1,13 @@
 # encoding=utf-8
-
+from local_settings import *
 import codecs
 import re
-from sefaria.model import *
 from sefaria.system.exceptions import *
 from sefaria.system.database import db
+from sefaria.model import *
+from sefaria.system.exceptions import InputError
+import unicodecsv, glob, json, codecs, re
+from collections import OrderedDict, defaultdict
 
 
 def katov_3_linked(mikta1, mikta2):
@@ -86,23 +89,42 @@ def get_sheets_for_ref(tref, pad=True, context=1):
 
     return results
 
+def get_ketaim():
+    in_json = json.load(fp, encoding='utf8')
+
+
+def get_miktaim():
+    for file_name in glob.glob("data/herzog_ketaim_json/*level{}.json".format(2)):
+
+        print file_name
+        with codecs.open(file_name, 'rb', encoding='utf8') as fp2:
+            json_obj = json.load(fp2, encoding='utf8')
+            refs = []
+            names = []
+            for keta_obj in json_obj:
+                refs += [keta_obj['ref']]
+                names += [keta_obj['name']]
+            # return refs, names
+    return json_obj
+
 
 if __name__ == "__main__":
-    mkt1 = 'Numbers 13' #'Genesis 12'
-    mkt2 = 'Deuteronomy 1'#'Genesis 20'
-    ref_insec, sheet_insec = katov_3_linked(mkt1, mkt2)
-    ind = library.get_index('Genesis')
-    # pesukim = []
-    # for seg in ind.all_segment_refs():
+    # ind = library.get_index('Genesis')
+    # mktaim = []
+    # for seg in ind.all_section_refs():
     #     title = seg.index.title
     #     sections = seg.sections
-    #     mkt = title + sections
-    #     pesukim.append(mkt)
-    #
-    # for mkt1 in pesukim:
-    #     for mkt2 in pesukim:
-    #         ref_insec, sheet_insec = katov_3_linked(mkt1, mkt2)
-    #         print 'segments linked ' + str(len(ref_insec))
-    #         print 'segment sheets ' + str(len(sheet_insec))
-    print 'segments linked ' + str(len(ref_insec))
-    print 'segment sheets ' + str(len(sheet_insec))
+    #     mkt = u'{} {}'.format(title, sections)
+    #     mktaim.append(mkt)
+    min_ref_insec = 100
+    min_sheet_insec = 2
+    # mktaim, names = get_miktaim()
+    mktaim = get_miktaim()
+    for i, mkt1 in enumerate(mktaim):
+        for mkt2 in mktaim[i+1:]:
+            ref_insec, sheet_insec = katov_3_linked(mkt1['ref'], mkt2['ref'])
+            if (len(ref_insec) > min_ref_insec and len(sheet_insec) > min_sheet_insec):
+                print mkt1['name'], mkt1['ref'], mkt2['name'], mkt2['ref']
+                print 'segments linked ' + str(len(ref_insec))
+                print 'segment sheets ' + str(len(sheet_insec))
+
