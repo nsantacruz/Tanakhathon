@@ -10,16 +10,17 @@ See the README for a usage example.
 
 import sys
 import os
+from collections import OrderedDict
 
 class tfidf:
   def __init__(self):
     self.weighted = False
     self.documents = []
-    self.corpus_dict = {}
+    self.corpus_dict = OrderedDict()
 
   def addDocument(self, doc_name, list_of_words):
     # building a dictionary
-    doc_dict = {}
+    doc_dict = OrderedDict()
     for w in list_of_words:
       doc_dict[w] = doc_dict.get(w, 0.) + 1.0
       self.corpus_dict[w] = self.corpus_dict.get(w, 0.0) + 1.0
@@ -36,7 +37,7 @@ class tfidf:
     """Returns a list of all the [docname, similarity_score] pairs relative to a list of words."""
 
     # building the query dictionary
-    query_dict = {}
+    query_dict = OrderedDict()
     for w in list_of_words:
       query_dict[w] = query_dict.get(w, 0.0) + 1.0
 
