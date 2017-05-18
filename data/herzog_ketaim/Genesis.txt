@@ -60,10 +60,10 @@
 	בראשית	טו	א	בראשית	טו	כא	אברהם	Avraham	ברית בין הבתרים	Covenant Between the Pieces																	
 	בראשית	טו	א	בראשית	טו	ו	אברהם	Avraham	ברית בין הבתרים		הבטחת זרע לאברם	Avram is Promised a Child															
 	בראשית	טו	ז	בראשית	טו	כא	אברהם	Avraham	ברית בין הבתרים		הברית	The Covenant															
-	בראשית	טז	א	טז	טז	טז	אברהם	Avraham	לידת ישמעאל	The Birth of Yishmael																	
-	בראשית	טז	א	טז	טז	ד	אברהם	Avraham	לידת ישמעאל		נתינת הגר לאברם	The Giving of Hagar to Avraham															
-	בראשית	טז	ה	טז	טז	ו	אברהם	Avraham	לידת ישמעאל		כעס שרי ובריחת הגר	Sarai is Harsh and Hagar Flees															
-	בראשית	טז	ז	טז	טז	טז	אברהם	Avraham	לידת ישמעאל		נבואת המלאך ולידת ישמעאל	The Angel's Prophecy and the Birth of Yishmael															
+	בראשית	טז	א	בראשית	טז	טז	אברהם	Avraham	לידת ישמעאל	The Birth of Yishmael
+	בראשית	טז	א	בראשית	טז	ד	אברהם	Avraham	לידת ישמעאל		נתינת הגר לאברם	The Giving of Hagar to Avraham
+	בראשית	טז	ה	בראשית	טז	ו	אברהם	Avraham	לידת ישמעאל		כעס שרי ובריחת הגר	Sarai is Harsh and Hagar Flees
+	בראשית	טז	ז	בראשית	טז	טז	אברהם	Avraham	לידת ישמעאל		נבואת המלאך ולידת ישמעאל	The Angel's Prophecy and the Birth of Yishmael
 	בראשית	יז	א	בראשית	יז	כז	אברהם	Avraham	ברית המילה	The Covenant of Circumcision																	
 	בראשית	יז	א	בראשית	יז	ח	אברהם	Avraham	ברית המילה		שינוי השם לאברהם	Avram's Name is Changed to Avraham															
 	בראשית	יז	ט	בראשית	יז	יד	אברהם	Avraham	ברית המילה		ציווי על המילה	God Commands Circumcision															
