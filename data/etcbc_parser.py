@@ -26,8 +26,13 @@ def getShoresh(line, index):
     b_index = index_slash if index_slash > index_underscore else index_underscore
     return stripNikkud(line[b_index+2:index])
 
-def getWholeWord(line, index):
-    return 0
+def getWord(line, word):
+    words = line.split()
+    letters_to_delete = (len(words) - 2) / 2
+    if u"impl" in line:
+        letters_to_delete -= 1
+    word = stripNikkud(word)
+    return word[letters_to_delete:]
 
 
 
@@ -78,24 +83,26 @@ with codecs.open("mikra-morph.txt.withnikudnew.txt", 'rb', encoding='utf8') as f
 
         else:
 
-            index = line.find(u"---")
+            b_index = line.find(u"---")
 
-            pasuk.append(stripNikkud(line[:index-1]))
+            index = line.find(u"=")
 
-            # if index is not -1:
-            #     pasuk.append(getShoresh(line, index))
-            # else:
-            #     index = line.find(u"/_")
-            #     if index is not -1:
-            #         pasuk.append(getShoresh(line, index))
-            #     else:
-            #         index = line.find(u"[")
-            #         if index is not -1:
-            #             pasuk.append(getShoresh(line, index))
+            if index is not -1:
+                pasuk.append(getWord(line[b_index:index], line[:b_index-1]))
+            else:
+                index = line.find(u"/_")
+                if index is not -1:
+                    pasuk.append(getWord(line[b_index:index], line[:b_index-1]))
+                else:
+                    index = line.find(u"[")
+                    if index is not -1:
+                        pasuk.append(getWord(line[b_index:index], line[:b_index-1]))
 
 
 
-    with codecs.open("whole_tanakh.json", 'wb', encoding='utf8') as file_write:
+
+
+    with codecs.open("suffix_tanakh.json", 'wb', encoding='utf8') as file_write:
         json.dump(books, file_write, ensure_ascii=False, indent=4)
 
     #     exact_words = wo_preps.write(stripNikkud(line))
