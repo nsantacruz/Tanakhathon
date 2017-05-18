@@ -126,7 +126,7 @@ with codecs.open("mikra-morph.txt.withnikudnew.txt", 'rb', encoding='utf8') as f
 
                 if index is not -1:
                     b_index = line.rfind(u' ', 0, index)
-                    word = line[b_index:index]
+                    word = line[b_index+1:index]
                     pasuk.append(stripNikkud(word))
 
                 else:
