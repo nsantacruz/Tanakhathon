@@ -34,7 +34,7 @@
 	יהושע	יג	כט	יהושע	יג	לג	ההתנחלות בארץ		נחלות שבטי עבר הירדן		נחלת חצי המנשה	Tribal Portion of Half of Menashe															
 	יהושע	יד	א	יהושע	יז	יז	ההתנחלות בארץ		נחלות שבטי יהודה ויוסף	Tribal Portions for Yehuda and Yosef																	
 	יהושע	יד	א	יהושע	יד	ה	ההתנחלות בארץ		נחלות שבטי יהודה ויוסף		פתיחה לנחלת תשעת השבטים	Introduction to the Tribal Portions of the Nine Tribes															
-	יהושע	יד	ו	יהושע	יד	ט	ההתנחלות בארץ		נחלות שבטי יהודה ויוסף		נתינת חברון לכלב	Hebron is Given to Calev															
+	יהושע	יד	ו	יהושע	יד	טו	ההתנחלות בארץ		נחלות שבטי יהודה ויוסף		נתינת חברון לכלב	Hebron is Given to Calev
 	יהושע	טו	א	יהושע	טו	סג	ההתנחלות בארץ		נחלות שבטי יהודה ויוסף		נחלת יהודה	Tribal Portion of Yehuda															
 	יהושע	טז	א	יהושע	טז	י	ההתנחלות בארץ		נחלות שבטי יהודה ויוסף		נחלת אפרים	Tribal Portion of Ephraim															
 	יהושע	יז	א	יהושע	יז	יג	ההתנחלות בארץ		נחלות שבטי יהודה ויוסף		נחלת חצי המנשה	Tribal Portion of Half of Menashe															
@@ -56,7 +56,7 @@
 	יהושע	כג	א	יהושע	כג	טז	סיום		נאום יהושע לפני מותו	Yehoshua's Farewell Speech																	
 	יהושע	כד	א	יהושע	כד	כח	סיום		הנאום בשכם	The Speech at Shechem																	
 	יהושע	כד	כט	יהושע	כד	לג	סיום		מות יהושע וסיכום התקופה	Yehoshua's Death and the End of an Era																	
-																											
+
 																											
 																											
 																											

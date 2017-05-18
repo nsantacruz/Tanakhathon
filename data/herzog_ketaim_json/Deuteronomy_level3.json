@@ -1,0 +1,582 @@
+[
+    {
+        "ref": "Deuteronomy 1:1-5", 
+        "name": "פתיחה"
+    }, 
+    {
+        "ref": "Deuteronomy 1:6-8", 
+        "name": "הציווי לנסוע לארץ ולרשתה"
+    }, 
+    {
+        "ref": "Deuteronomy 1:9-18", 
+        "name": "מינוי השופטים"
+    }, 
+    {
+        "ref": "Deuteronomy 1:19-40", 
+        "name": "חטא המרגלים ועונשו"
+    }, 
+    {
+        "ref": "Deuteronomy 1:41-2:1", 
+        "name": "המעפילים ועונשם"
+    }, 
+    {
+        "ref": "Deuteronomy 2:2-23", 
+        "name": "העמים שאסור להילחם בהם"
+    }, 
+    {
+        "ref": "Deuteronomy 2:24-3:22", 
+        "name": "כיבוש סיחון ועוג"
+    }, 
+    {
+        "ref": "Deuteronomy 3:23-29", 
+        "name": "תחינת משה להיכנס לארץ ודחייתה"
+    }, 
+    {
+        "ref": "Deuteronomy 4:1-4", 
+        "name": "שמירת המצות כתנאי לחיים בארץ"
+    }, 
+    {
+        "ref": "Deuteronomy 4:5-8", 
+        "name": "מעלת המצוות וערכן גם בעיני העמים"
+    }, 
+    {
+        "ref": "Deuteronomy 4:9-24", 
+        "name": "חשיבות זכירת מעמד הר סיני"
+    }, 
+    {
+        "ref": "Deuteronomy 4:25-40", 
+        "name": "חטא, גלות והבטחת גאולה"
+    }, 
+    {
+        "ref": "Deuteronomy 4:41-43", 
+        "name": "הבדלת ערי המקלט בעבר הירדן"
+    }, 
+    {
+        "ref": "Deuteronomy 4:44-49", 
+        "name": "חתימה"
+    }, 
+    {
+        "ref": "Deuteronomy 5:1-5", 
+        "name": "פתיחה - כריתת הברית בחורב"
+    }, 
+    {
+        "ref": "Deuteronomy 5:6-18", 
+        "name": "עשרת הדיברות"
+    }, 
+    {
+        "ref": "Deuteronomy 5:19-28", 
+        "name": "בקשת העם לשמוע את התורה מפי משה"
+    }, 
+    {
+        "ref": "Deuteronomy 5:29-6:3", 
+        "name": "שמירת המצוות - התנאי לירושת הארץ"
+    }, 
+    {
+        "ref": "Deuteronomy 6:4-9", 
+        "name": "\"שמע ישראל\" - קבלת עול מלכות שמים"
+    }, 
+    {
+        "ref": "Deuteronomy 6:10-19", 
+        "name": "שמירת המצוות בארץ ישראל"
+    }, 
+    {
+        "ref": "Deuteronomy 6:20-25", 
+        "name": "יציאת מצרים כבסיס לחיוב במצוות"
+    }, 
+    {
+        "ref": "Deuteronomy 7:1-11", 
+        "name": "ייחודו של עם ישראל בין העמים"
+    }, 
+    {
+        "ref": "Deuteronomy 7:12-16", 
+        "name": "השכר על שמירת המצוות"
+    }, 
+    {
+        "ref": "Deuteronomy 7:17-26", 
+        "name": "אין לחשוש מעמי כנען"
+    }, 
+    {
+        "ref": "Deuteronomy 8:1-6", 
+        "name": "זכירת התלות בה' במדבר"
+    }, 
+    {
+        "ref": "Deuteronomy 8:7-18", 
+        "name": "טוב הארץ וחשש משכחת ה'"
+    }, 
+    {
+        "ref": "Deuteronomy 8:19-20", 
+        "name": "העונש על שכחת ה'"
+    }, 
+    {
+        "ref": "Deuteronomy 9:1-5", 
+        "name": "הסיבות לירושת הארץ"
+    }, 
+    {
+        "ref": "Deuteronomy 9:6-7", 
+        "name": "זכרון חטאי העבר ולקחם"
+    }, 
+    {
+        "ref": "Deuteronomy 9:8-21", 
+        "name": "חטא העגל"
+    }, 
+    {
+        "ref": "Deuteronomy 9:22-24", 
+        "name": "חטאים נוספים במדבר"
+    }, 
+    {
+        "ref": "Deuteronomy 9:25-29", 
+        "name": "תפילת משה אחרי חטא העגל"
+    }, 
+    {
+        "ref": "Deuteronomy 10:1-5", 
+        "name": "הלוחות השניים"
+    }, 
+    {
+        "ref": "Deuteronomy 10:6-11", 
+        "name": "אירועים נוספים בעקבות חטא העגל"
+    }, 
+    {
+        "ref": "Deuteronomy 10:12-11:9", 
+        "name": "בחירת ישראל וגדולת ה'"
+    }, 
+    {
+        "ref": "Deuteronomy 11:10-12", 
+        "name": "טוב הארץ תלוי בברכת שמים"
+    }, 
+    {
+        "ref": "Deuteronomy 11:13-21", 
+        "name": "\"והיה אם שמע\" - ברכת שמים תלויה בקיום המצוות"
+    }, 
+    {
+        "ref": "Deuteronomy 11:22-25", 
+        "name": "שמירת המצוות - התנאי לירושת הארץ"
+    }, 
+    {
+        "ref": "Deuteronomy 11:26-32", 
+        "name": "הברכה והקללה"
+    }, 
+    {
+        "ref": "Deuteronomy 12:1-3", 
+        "name": "הציווי לאבד מקום עבודה זרה"
+    }, 
+    {
+        "ref": "Deuteronomy 12:4-28", 
+        "name": "אכילת קודשים ובשר תאווה"
+    }, 
+    {
+        "ref": "Deuteronomy 12:29-13:1", 
+        "name": "אזהרה מחיקוי פולחן הגויים"
+    }, 
+    {
+        "ref": "Deuteronomy 13:2-6", 
+        "name": "נביא עבודה זרה"
+    }, 
+    {
+        "ref": "Deuteronomy 13:7-12", 
+        "name": "מסית לעבודה זרה"
+    }, 
+    {
+        "ref": "Deuteronomy 13:13-19", 
+        "name": "עיר הנידחת"
+    }, 
+    {
+        "ref": "Deuteronomy 14:1-2", 
+        "name": "איסור גדידה וקרחה"
+    }, 
+    {
+        "ref": "Deuteronomy 14:3-21", 
+        "name": "בעלי החיים הטמאים והטהורים"
+    }, 
+    {
+        "ref": "Deuteronomy 14:22-27", 
+        "name": "מעשר שני"
+    }, 
+    {
+        "ref": "Deuteronomy 14:28-29", 
+        "name": "מעשר עני"
+    }, 
+    {
+        "ref": "Deuteronomy 15:1-6", 
+        "name": "שמיטת כספים"
+    }, 
+    {
+        "ref": "Deuteronomy 15:7-11", 
+        "name": "חובת ההלוואה לעני"
+    }, 
+    {
+        "ref": "Deuteronomy 15:12-18", 
+        "name": "עבד עברי"
+    }, 
+    {
+        "ref": "Deuteronomy 15:19-23", 
+        "name": "בכור בהמה"
+    }, 
+    {
+        "ref": "Deuteronomy 16:1-8", 
+        "name": "חג הפסח"
+    }, 
+    {
+        "ref": "Deuteronomy 16:9-12", 
+        "name": "ספירת העומר וחג השבועות"
+    }, 
+    {
+        "ref": "Deuteronomy 16:13-15", 
+        "name": "חג הסוכות"
+    }, 
+    {
+        "ref": "Deuteronomy 16:16-17", 
+        "name": "מצוות עליה לרגל"
+    }, 
+    {
+        "ref": "Deuteronomy 16:18-20", 
+        "name": "מינוי שופטים ושוטרים"
+    }, 
+    {
+        "ref": "Deuteronomy 16:21-22", 
+        "name": "איסור אשרה ומצבה"
+    }, 
+    {
+        "ref": "Deuteronomy 17:1", 
+        "name": "איסור זביחת בעל מום"
+    }, 
+    {
+        "ref": "Deuteronomy 17:2-7", 
+        "name": "משפט עובדי עבודה זרה"
+    }, 
+    {
+        "ref": "Deuteronomy 17:8-13", 
+        "name": "חובת ציות לבית הדין הגדול"
+    }, 
+    {
+        "ref": "Deuteronomy 17:14-20", 
+        "name": "מינוי מלך ומצוות המלך"
+    }, 
+    {
+        "ref": "Deuteronomy 18:1-8", 
+        "name": "משפט הכהנים והלויים"
+    }, 
+    {
+        "ref": "Deuteronomy 18:9-22", 
+        "name": "נביא אמת מול כישופי הגויים"
+    }, 
+    {
+        "ref": "Deuteronomy 19:1-13", 
+        "name": "ערי מקלט ודיני רוצח"
+    }, 
+    {
+        "ref": "Deuteronomy 19:14", 
+        "name": "איסור הסגת גבול"
+    }, 
+    {
+        "ref": "Deuteronomy 19:15-21", 
+        "name": "עדים זוממים"
+    }, 
+    {
+        "ref": "Deuteronomy 20:1-9", 
+        "name": "חיזוק היוצאים למלחמה ודין המשוחררים ממנה"
+    }, 
+    {
+        "ref": "Deuteronomy 20:10-18", 
+        "name": "חובת הקריאה לשלום ודין עמי כנען לאחר כיבושם"
+    }, 
+    {
+        "ref": "Deuteronomy 20:19-20", 
+        "name": "כריתת עצים במצור"
+    }, 
+    {
+        "ref": "Deuteronomy 21:1-9", 
+        "name": "עגלה ערופה"
+    }, 
+    {
+        "ref": "Deuteronomy 21:10-14", 
+        "name": "אשת יפת תואר"
+    }, 
+    {
+        "ref": "Deuteronomy 21:15-17", 
+        "name": "ירושת הבכור - בן השנואה"
+    }, 
+    {
+        "ref": "Deuteronomy 21:18-21", 
+        "name": "בן סורר ומורה"
+    }, 
+    {
+        "ref": "Deuteronomy 21:22-23", 
+        "name": "קבורת התלוי ביומו"
+    }, 
+    {
+        "ref": "Deuteronomy 22:1-3", 
+        "name": "השבת אבידה"
+    }, 
+    {
+        "ref": "Deuteronomy 22:4", 
+        "name": "הקמת שור וחמור"
+    }, 
+    {
+        "ref": "Deuteronomy 22:5", 
+        "name": "איסור כלי גבר על אישה ולהיפך"
+    }, 
+    {
+        "ref": "Deuteronomy 22:6-7", 
+        "name": "שילוח הקן"
+    }, 
+    {
+        "ref": "Deuteronomy 22:8", 
+        "name": "מצוות מעקה"
+    }, 
+    {
+        "ref": "Deuteronomy 22:9", 
+        "name": "כלאי הכרם"
+    }, 
+    {
+        "ref": "Deuteronomy 22:10", 
+        "name": "כלאי בהמה בחרישה"
+    }, 
+    {
+        "ref": "Deuteronomy 22:11", 
+        "name": "שעטנז"
+    }, 
+    {
+        "ref": "Deuteronomy 22:12", 
+        "name": "ציצית"
+    }, 
+    {
+        "ref": "Deuteronomy 22:13-21", 
+        "name": "טענת בתולים"
+    }, 
+    {
+        "ref": "Deuteronomy 22:22", 
+        "name": "שוכב עם אשת איש"
+    }, 
+    {
+        "ref": "Deuteronomy 22:23-27", 
+        "name": "שוכב עם נערה מאורסה"
+    }, 
+    {
+        "ref": "Deuteronomy 22:28-29", 
+        "name": "שוכב עם נערה בתולה"
+    }, 
+    {
+        "ref": "Deuteronomy 23:1", 
+        "name": "איסור אשת אביו"
+    }, 
+    {
+        "ref": "Deuteronomy 23:2-3", 
+        "name": "פצוע דכה, כרות שופכה וממזר"
+    }, 
+    {
+        "ref": "Deuteronomy 23:4-7", 
+        "name": "עמוני ומואבי בקהל ה'"
+    }, 
+    {
+        "ref": "Deuteronomy 23:8-9", 
+        "name": "אדומי ומצרי בקהל ה'"
+    }, 
+    {
+        "ref": "Deuteronomy 23:10-15", 
+        "name": "טהרת המחנה ונקיונו"
+    }, 
+    {
+        "ref": "Deuteronomy 23:16-17", 
+        "name": "איסור הסגרת עבד"
+    }, 
+    {
+        "ref": "Deuteronomy 23:18", 
+        "name": "איסור קדש וקדשה"
+    }, 
+    {
+        "ref": "Deuteronomy 23:19", 
+        "name": "איסור אתנן זונה"
+    }, 
+    {
+        "ref": "Deuteronomy 23:20-21", 
+        "name": "איסור ריבית ונשך"
+    }, 
+    {
+        "ref": "Deuteronomy 23:22-24", 
+        "name": "החובה לשלם נדרים"
+    }, 
+    {
+        "ref": "Deuteronomy 23:25-26", 
+        "name": "אכילת פועל בשדה ובכרם"
+    }, 
+    {
+        "ref": "Deuteronomy 24:1-4", 
+        "name": "דיני גירושין"
+    }, 
+    {
+        "ref": "Deuteronomy 24:5", 
+        "name": "הלוקח אישה חדשה - לא יצא לצבא"
+    }, 
+    {
+        "ref": "Deuteronomy 24:6", 
+        "name": "איסור לחבול ריחיים ורכב"
+    }, 
+    {
+        "ref": "Deuteronomy 24:7", 
+        "name": "דין גונב נפש מאחיו"
+    }, 
+    {
+        "ref": "Deuteronomy 24:8-9", 
+        "name": "החובה להישמר בנגע הצרעת"
+    }, 
+    {
+        "ref": "Deuteronomy 24:10-13", 
+        "name": "התנהגות עם לווה שנתן משכון"
+    }, 
+    {
+        "ref": "Deuteronomy 24:14-15", 
+        "name": "תשלום שכר בזמן"
+    }, 
+    {
+        "ref": "Deuteronomy 24:16", 
+        "name": "איסור להמית אבות על בנים ולהיפך"
+    }, 
+    {
+        "ref": "Deuteronomy 24:17-18", 
+        "name": "זהירות במשפט גר יתום ואלמנה"
+    }, 
+    {
+        "ref": "Deuteronomy 24:19-22", 
+        "name": "מתנות עניים בשדה ובכרם"
+    }, 
+    {
+        "ref": "Deuteronomy 25:1-3", 
+        "name": "עונש מלקות בית דין"
+    }, 
+    {
+        "ref": "Deuteronomy 25:4", 
+        "name": "איסור חסימת שור בדישו"
+    }, 
+    {
+        "ref": "Deuteronomy 25:5-10", 
+        "name": "מצוות ייבום וחליצה"
+    }, 
+    {
+        "ref": "Deuteronomy 25:11-12", 
+        "name": "תשלום על בושת"
+    }, 
+    {
+        "ref": "Deuteronomy 25:13-16", 
+        "name": "איסור רמיה במידות ובמשקולות"
+    }, 
+    {
+        "ref": "Deuteronomy 25:17-19", 
+        "name": "זכירת מעשה עמלק והחובה למחותו"
+    }, 
+    {
+        "ref": "Deuteronomy 26:1-11", 
+        "name": "ביכורים"
+    }, 
+    {
+        "ref": "Deuteronomy 26:12-15", 
+        "name": "ביעור מעשרות"
+    }, 
+    {
+        "ref": "Deuteronomy 26:16-19", 
+        "name": "דברי סיכום לנאום המצוות"
+    }, 
+    {
+        "ref": "Deuteronomy 27:1-8", 
+        "name": "הקמת אבנים ומזבח בהר עיבל"
+    }, 
+    {
+        "ref": "Deuteronomy 27:9-10", 
+        "name": "פתיחה לברכות ולקללות"
+    }, 
+    {
+        "ref": "Deuteronomy 27:11-13", 
+        "name": "השבטים שיעמדו לברך ושיעמדו על הקללה"
+    }, 
+    {
+        "ref": "Deuteronomy 27:14-26", 
+        "name": "אמירת הארורים על ידי הלויים"
+    }, 
+    {
+        "ref": "Deuteronomy 28:1-14", 
+        "name": "הברכות בשכר שמירת המצוות"
+    }, 
+    {
+        "ref": "Deuteronomy 28:15-68", 
+        "name": "הקללות על אי שמירת המצוות"
+    }, 
+    {
+        "ref": "Deuteronomy 28:69", 
+        "name": "חתימה לברית ערבות מואב"
+    }, 
+    {
+        "ref": "Deuteronomy 29:1-8", 
+        "name": "ניסי העבר כבסיס לשמירת הברית"
+    }, 
+    {
+        "ref": "Deuteronomy 29:9-14", 
+        "name": "הברית לכל העם לדורותיו"
+    }, 
+    {
+        "ref": "Deuteronomy 29:15-28", 
+        "name": "העונש למפירי הברית"
+    }, 
+    {
+        "ref": "Deuteronomy 30:1-10", 
+        "name": "התשובה בעקבות הברית"
+    }, 
+    {
+        "ref": "Deuteronomy 30:11-14", 
+        "name": "\"בפיך ובלבבך לעשותו\""
+    }, 
+    {
+        "ref": "Deuteronomy 30:15-20", 
+        "name": "הקריאה לבחור בטוב ובחיים"
+    }, 
+    {
+        "ref": "Deuteronomy 31:1-8", 
+        "name": "דברי חיזוק לעם וליהושע"
+    }, 
+    {
+        "ref": "Deuteronomy 31:9-13", 
+        "name": "כתיבת התורה ומצוות הקהל"
+    }, 
+    {
+        "ref": "Deuteronomy 31:14-18", 
+        "name": "הפורענות בעקבות הפרת הברית"
+    }, 
+    {
+        "ref": "Deuteronomy 31:19-23", 
+        "name": "כתיבת השירה כעדות"
+    }, 
+    {
+        "ref": "Deuteronomy 31:24-27", 
+        "name": "שימת התורה בארון כעדות"
+    }, 
+    {
+        "ref": "Deuteronomy 31:28-30", 
+        "name": "הקהלת העם לשמיעת השירה"
+    }, 
+    {
+        "ref": "Deuteronomy 32:1-43", 
+        "name": "השירה"
+    }, 
+    {
+        "ref": "Deuteronomy 32:44-47", 
+        "name": "חיזוק העם לשמור את התורה"
+    }, 
+    {
+        "ref": "Deuteronomy 32:48-52", 
+        "name": "ציווי למשה לעלות להר נבו"
+    }, 
+    {
+        "ref": "Deuteronomy 33:1-29", 
+        "name": "ברכות משה לשבטים ולעם"
+    }, 
+    {
+        "ref": "Deuteronomy 34:1-4", 
+        "name": "משה בהר נבו"
+    }, 
+    {
+        "ref": "Deuteronomy 34:5-9", 
+        "name": "מות משה והתמנות יהושע"
+    }, 
+    {
+        "ref": "Deuteronomy 34:10-12", 
+        "name": "חתימת התורה - ייחוד נבואת משה"
+    }
+]

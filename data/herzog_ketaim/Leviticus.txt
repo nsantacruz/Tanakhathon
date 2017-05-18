@@ -12,7 +12,7 @@
 	ויקרא	ו	יז	ויקרא	ו	כג	קרבנות		ציוויי הקרבנות לכהנים		חטאת	Hatat - Sin Offering															
 	ויקרא	ז	א	ויקרא	ז	ו	קרבנות		ציוויי הקרבנות לכהנים		אשם	Asham - Guilt Offering															
 	ויקרא	ז	ז	ויקרא	ז	י	קרבנות		ציוויי הקרבנות לכהנים		חלוקת הקרבנות לכהנים	Portions of the Offerings Given to the Kohanim															
-	ויקרא	ז	יא	ויקרא	ז	לד	קרבנות		ציוויי הקרבנות לכהנים		שלמים	Shelamim															
+	ויקרא	ז	יא	ויקרא	ז	לח	קרבנות		ציוויי הקרבנות לכהנים		שלמים	Shelamim
 	ויקרא	ח	א	ויקרא	י	כ	חנוכת המשכן	Dedication of the Mishkan																			
 	ויקרא	ח	א	ויקרא	ח	לו	חנוכת המשכן		שבעת ימי המילואים	The Seven Days of Consecration																	
 	ויקרא	ח	א	ויקרא	ח	ה	חנוכת המשכן		שבעת ימי המילואים		פתיחה והכנות	Introduction and Preparation															
@@ -44,7 +44,7 @@
 	ויקרא	טו	כה	ויקרא	טו	לג	תורת הטומאה והטהרה		טומאת הגוף		טומאת הזבה	Impurity and the Zava															
 	ויקרא	טז	א	ויקרא	טז	לד	תורת הטומאה והטהרה		עבודת יום הכיפורים	The Yom Kippur Service																	
 	ויקרא	טז	א	ויקרא	טז	כח	תורת הטומאה והטהרה		עבודת יום הכיפורים		מעשי הקרבנות והשעירים	Procedure of the Offerings and the Goats															
-	ויקרא	טז	כט	ויקרא	טז	לא	תורת הטומאה והטהרה		עבודת יום הכיפורים		חובת התענית ביום הכיפורים	Requirement to Fast on the Day of Atonement															
+	ויקרא	טז	כט	ויקרא	טז	לד	תורת הטומאה והטהרה		עבודת יום הכיפורים		חובת התענית ביום הכיפורים	Requirement to Fast on the Day of Atonement
 	ויקרא	יז	א	ויקרא	יז	טז	תורת הטומאה והטהרה		דיני דם בעלי חיים	Laws of Animal Blood																	
 	ויקרא	יז	א	ויקרא	יז	ט	תורת הטומאה והטהרה		דיני דם בעלי חיים		איסור שחיטת חוץ	Prohibition to Slaughter Animals Outside the Mishkan															
 	ויקרא	יז	י	ויקרא	יז	יב	תורת הטומאה והטהרה		דיני דם בעלי חיים		איסור אכילת דם	Prohibition to Consume Blood															
@@ -93,7 +93,7 @@
 	ויקרא	כד	א	ויקרא	כד	ד	פרשיות הקדושה				העלאת נר תמיד	Raising the Ner Tamid - Constant Light															
 	ויקרא	כד	ה	ויקרא	כד	ט	פרשיות הקדושה				לחם הפנים	Showbread															
 	ויקרא	כד	י	ויקרא	כד	כג	פרשיות הקדושה				המקלל ודינו	The Blasphemer and his Sentence															
-	ויקרא	כה	א	ויקרא	כו	מו	המצוות והברית בהר סיני	The Laws and the Covenant at Sinai																			
+	ויקרא	כה	א	ויקרא	כז	לד	המצוות והברית בהר סיני	The Laws and the Covenant at Sinai
 	ויקרא	כה	א	ויקרא	כו	ב	המצוות והברית בהר סיני		שמיטה ויובל	Shemitta and Yovel - The Sabbatical and Jubilee Years																	
 	ויקרא	כה	א	ויקרא	כה	ז	המצוות והברית בהר סיני		שמיטה ויובל		דיני שבת הארץ	Laws of the Land Resting - Sabbatical Year															
 	ויקרא	כה	ח	ויקרא	כה	יג	המצוות והברית בהר סיני		שמיטה ויובל		דיני שנת היובל	Laws of the Yovel Year - Jubilee															
