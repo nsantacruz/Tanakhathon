@@ -1,0 +1,1257 @@
+[
+    {
+        "b_ref": "Deuteronomy 1:1", 
+        "e_ref": "Deuteronomy 1:5", 
+        "name": "פתיחה"
+    }, 
+    {
+        "b_ref": "Deuteronomy 1:6", 
+        "e_ref": "Deuteronomy 3:29", 
+        "name": "אירועים מן העבר"
+    }, 
+    {
+        "b_ref": "Deuteronomy 4:1", 
+        "e_ref": "Deuteronomy 4:40", 
+        "name": "לקחים"
+    }, 
+    {
+        "b_ref": "Deuteronomy 4:41", 
+        "e_ref": "Deuteronomy 4:49", 
+        "name": "סיום"
+    }, 
+    {
+        "b_ref": "Deuteronomy 5:1", 
+        "e_ref": "Deuteronomy 11:32", 
+        "name": "הקדמה רעיונית - מצוות האמונה"
+    }, 
+    {
+        "b_ref": "Deuteronomy 12:1", 
+        "e_ref": "Deuteronomy 14:21", 
+        "name": "היבדלות מעבודה זרה ודרכיה"
+    }, 
+    {
+        "b_ref": "Deuteronomy 14:22", 
+        "e_ref": "Deuteronomy 15:23", 
+        "name": "מצוות חברתיות"
+    }, 
+    {
+        "b_ref": "Deuteronomy 16:1", 
+        "e_ref": "Deuteronomy 16:17", 
+        "name": "שלש רגלים"
+    }, 
+    {
+        "b_ref": "Deuteronomy 16:18", 
+        "e_ref": "Deuteronomy 19:21", 
+        "name": "מצוות משפט והנהגה"
+    }, 
+    {
+        "b_ref": "Deuteronomy 20:1", 
+        "e_ref": "Deuteronomy 21:14", 
+        "name": "דיני המלחמה"
+    }, 
+    {
+        "b_ref": "Deuteronomy 21:15", 
+        "e_ref": "Deuteronomy 22:8", 
+        "name": "לקט מצוות"
+    }, 
+    {
+        "b_ref": "Deuteronomy 22:9", 
+        "e_ref": "Deuteronomy 22:11", 
+        "name": "כלאיים"
+    }, 
+    {
+        "b_ref": "Deuteronomy 22:12", 
+        "e_ref": "Deuteronomy 22:12", 
+        "name": "ציצית"
+    }, 
+    {
+        "b_ref": "Deuteronomy 22:13", 
+        "e_ref": "Deuteronomy 23:1", 
+        "name": "בין איש לאישה"
+    }, 
+    {
+        "b_ref": "Deuteronomy 23:2", 
+        "e_ref": "Deuteronomy 23:9", 
+        "name": "מי שלא יבוא בקהל ה'"
+    }, 
+    {
+        "b_ref": "Deuteronomy 23:10", 
+        "e_ref": "Deuteronomy 26:15", 
+        "name": "לקט מצוות"
+    }, 
+    {
+        "b_ref": "Deuteronomy 26:16", 
+        "e_ref": "Deuteronomy 26:19", 
+        "name": "דברי סיכום לנאום המצוות"
+    }, 
+    {
+        "b_ref": "Deuteronomy 27:1", 
+        "e_ref": "Deuteronomy 27:26", 
+        "name": "מעמד הברית בהר גריזים והר עיבל"
+    }, 
+    {
+        "b_ref": "Deuteronomy 28:1", 
+        "e_ref": "Deuteronomy 28:69", 
+        "name": "ברית ערבות מואב"
+    }, 
+    {
+        "b_ref": "Deuteronomy 29:1", 
+        "e_ref": "Deuteronomy 29:28", 
+        "name": "חיזוק לדברי הברית"
+    }, 
+    {
+        "b_ref": "Deuteronomy 30:1", 
+        "e_ref": "Deuteronomy 30:20", 
+        "name": "סיום הברית"
+    }, 
+    {
+        "b_ref": "Deuteronomy 31:1", 
+        "e_ref": "Deuteronomy 31:13", 
+        "name": "דברי משה לכל ישראל"
+    }, 
+    {
+        "b_ref": "Deuteronomy 31:14", 
+        "e_ref": "Deuteronomy 31:27", 
+        "name": "דברי ה' אל משה ויהושע"
+    }, 
+    {
+        "b_ref": "Deuteronomy 31:28", 
+        "e_ref": "Deuteronomy 32:47", 
+        "name": "שירת האזינו"
+    }, 
+    {
+        "b_ref": "Deuteronomy 32:48", 
+        "e_ref": "Deuteronomy 34:12", 
+        "name": "מות משה וסיום התורה"
+    }, 
+    {
+        "b_ref": "Exodus 1:1", 
+        "e_ref": "Exodus 2:25", 
+        "name": "השעבוד"
+    }, 
+    {
+        "b_ref": "Exodus 3:1", 
+        "e_ref": "Exodus 6:1", 
+        "name": "השליחות הראשונה של משה"
+    }, 
+    {
+        "b_ref": "Exodus 6:2", 
+        "e_ref": "Exodus 10:29", 
+        "name": "השליחות השניה - המכות"
+    }, 
+    {
+        "b_ref": "Exodus 11:1", 
+        "e_ref": "Exodus 13:22", 
+        "name": "היציאה ממצרים"
+    }, 
+    {
+        "b_ref": "Exodus 14:1", 
+        "e_ref": "Exodus 15:21", 
+        "name": "ים סוף"
+    }, 
+    {
+        "b_ref": "Exodus 15:22", 
+        "e_ref": "Exodus 15:27", 
+        "name": "מרה ואילים"
+    }, 
+    {
+        "b_ref": "Exodus 16:1", 
+        "e_ref": "Exodus 16:36", 
+        "name": "מדבר סין"
+    }, 
+    {
+        "b_ref": "Exodus 17:1", 
+        "e_ref": "Exodus 17:16", 
+        "name": "רפידים"
+    }, 
+    {
+        "b_ref": "Exodus 18:1", 
+        "e_ref": "Exodus 18:27", 
+        "name": "יתרו"
+    }, 
+    {
+        "b_ref": "Exodus 19:1", 
+        "e_ref": "Exodus 20:18", 
+        "name": "מעמד הר סיני"
+    }, 
+    {
+        "b_ref": "Exodus 20:19", 
+        "e_ref": "Exodus 20:23", 
+        "name": "המצוות המשלימות את הדברות"
+    }, 
+    {
+        "b_ref": "Exodus 21:1", 
+        "e_ref": "Exodus 23:33", 
+        "name": "משפטים ומצוות"
+    }, 
+    {
+        "b_ref": "Exodus 24:1", 
+        "e_ref": "Exodus 24:18", 
+        "name": "כריתת הברית בסיני"
+    }, 
+    {
+        "b_ref": "Exodus 25:1", 
+        "e_ref": "Exodus 31:17", 
+        "name": "ציווי על המשכן"
+    }, 
+    {
+        "b_ref": "Exodus 31:18", 
+        "e_ref": "Exodus 34:35", 
+        "name": "חטא העגל ותוצאותיו"
+    }, 
+    {
+        "b_ref": "Exodus 35:1", 
+        "e_ref": "Exodus 40:38", 
+        "name": "עשיית המשכן והקמתו"
+    }, 
+    {
+        "b_ref": "Genesis 1:1", 
+        "e_ref": "Genesis 2:3", 
+        "name": "בריאת העולם"
+    }, 
+    {
+        "b_ref": "Genesis 2:4", 
+        "e_ref": "Genesis 3:24", 
+        "name": "האדם וגן עדן"
+    }, 
+    {
+        "b_ref": "Genesis 4:1", 
+        "e_ref": "Genesis 4:16", 
+        "name": "קין והבל"
+    }, 
+    {
+        "b_ref": "Genesis 4:17", 
+        "e_ref": "Genesis 5:32", 
+        "name": "ספרי תולדות"
+    }, 
+    {
+        "b_ref": "Genesis 6:1", 
+        "e_ref": "Genesis 6:4", 
+        "name": "בני האלהים ובנות האדם"
+    }, 
+    {
+        "b_ref": "Genesis 6:5", 
+        "e_ref": "Genesis 9:17", 
+        "name": "המבול"
+    }, 
+    {
+        "b_ref": "Genesis 9:18", 
+        "e_ref": "Genesis 11:9", 
+        "name": "בני נח והפצתם על הארץ"
+    }, 
+    {
+        "b_ref": "Genesis 11:10", 
+        "e_ref": "Genesis 11:32", 
+        "name": "מנח עד אברהם"
+    }, 
+    {
+        "b_ref": "Genesis 12:1", 
+        "e_ref": "Genesis 12:9", 
+        "name": "הליכת אברם לארץ כנען"
+    }, 
+    {
+        "b_ref": "Genesis 12:10", 
+        "e_ref": "Genesis 12:20", 
+        "name": "ירידת אברם למצרים"
+    }, 
+    {
+        "b_ref": "Genesis 13:1", 
+        "e_ref": "Genesis 13:18", 
+        "name": "פרידת לוט מאברם"
+    }, 
+    {
+        "b_ref": "Genesis 14:1", 
+        "e_ref": "Genesis 14:24", 
+        "name": "מלחמת המלכים"
+    }, 
+    {
+        "b_ref": "Genesis 15:1", 
+        "e_ref": "Genesis 15:21", 
+        "name": "ברית בין הבתרים"
+    }, 
+    {
+        "b_ref": "Genesis 16:1", 
+        "e_ref": "Genesis 16:16", 
+        "name": "לידת ישמעאל"
+    }, 
+    {
+        "b_ref": "Genesis 17:1", 
+        "e_ref": "Genesis 17:27", 
+        "name": "ברית המילה"
+    }, 
+    {
+        "b_ref": "Genesis 18:1", 
+        "e_ref": "Genesis 19:38", 
+        "name": "ביקור המלאכים והפיכת סדום"
+    }, 
+    {
+        "b_ref": "Genesis 20:1", 
+        "e_ref": "Genesis 20:18", 
+        "name": "שרה בבית אבימלך"
+    }, 
+    {
+        "b_ref": "Genesis 21:1", 
+        "e_ref": "Genesis 21:21", 
+        "name": "לידת יצחק וגירוש ישמעאל"
+    }, 
+    {
+        "b_ref": "Genesis 21:22", 
+        "e_ref": "Genesis 21:34", 
+        "name": "ברית אברהם ואבימלך"
+    }, 
+    {
+        "b_ref": "Genesis 22:1", 
+        "e_ref": "Genesis 22:19", 
+        "name": "עקדת יצחק"
+    }, 
+    {
+        "b_ref": "Genesis 22:20", 
+        "e_ref": "Genesis 22:24", 
+        "name": "תולדות נחור אחי אברהם"
+    }, 
+    {
+        "b_ref": "Genesis 23:1", 
+        "e_ref": "Genesis 23:20", 
+        "name": "קניית מערת המכפלה"
+    }, 
+    {
+        "b_ref": "Genesis 24:1", 
+        "e_ref": "Genesis 24:67", 
+        "name": "בחירת אשה ליצחק"
+    }, 
+    {
+        "b_ref": "Genesis 25:1", 
+        "e_ref": "Genesis 25:18", 
+        "name": "צאצאי אברהם ומותו"
+    }, 
+    {
+        "b_ref": "Genesis 25:19", 
+        "e_ref": "Genesis 25:34", 
+        "name": "יעקב ועשו"
+    }, 
+    {
+        "b_ref": "Genesis 26:1", 
+        "e_ref": "Genesis 26:33", 
+        "name": "יצחק ואבימלך"
+    }, 
+    {
+        "b_ref": "Genesis 26:34", 
+        "e_ref": "Genesis 26:35", 
+        "name": "נישואי עשו"
+    }, 
+    {
+        "b_ref": "Genesis 27:1", 
+        "e_ref": "Genesis 28:9", 
+        "name": "ברכות יצחק לבניו"
+    }, 
+    {
+        "b_ref": "Genesis 28:10", 
+        "e_ref": "Genesis 31:54", 
+        "name": "יעקב בחרן"
+    }, 
+    {
+        "b_ref": "Genesis 32:1", 
+        "e_ref": "Genesis 35:29", 
+        "name": "חזרת יעקב לארץ כנען"
+    }, 
+    {
+        "b_ref": "Genesis 36:1", 
+        "e_ref": "Genesis 36:43", 
+        "name": "תולדות עשו"
+    }, 
+    {
+        "b_ref": "Genesis 37:1", 
+        "e_ref": "Genesis 37:36", 
+        "name": "מכירת יוסף"
+    }, 
+    {
+        "b_ref": "Genesis 38:1", 
+        "e_ref": "Genesis 38:30", 
+        "name": "מעשה יהודה ותמר"
+    }, 
+    {
+        "b_ref": "Genesis 39:1", 
+        "e_ref": "Genesis 39:20", 
+        "name": "יוסף בבית פוטיפר"
+    }, 
+    {
+        "b_ref": "Genesis 39:21", 
+        "e_ref": "Genesis 40:23", 
+        "name": "יוסף בבית הסוהר"
+    }, 
+    {
+        "b_ref": "Genesis 41:1", 
+        "e_ref": "Genesis 41:57", 
+        "name": "עליית יוסף לגדולה"
+    }, 
+    {
+        "b_ref": "Genesis 42:1", 
+        "e_ref": "Genesis 45:28", 
+        "name": "אחי יוסף במצרים"
+    }, 
+    {
+        "b_ref": "Genesis 46:1", 
+        "e_ref": "Genesis 47:27", 
+        "name": "ירידת יעקב וביתו למצרים"
+    }, 
+    {
+        "b_ref": "Genesis 47:28", 
+        "e_ref": "Genesis 50:26", 
+        "name": "דברי יעקב האחרונים"
+    }, 
+    {
+        "b_ref": "I Kings 1:1", 
+        "e_ref": "I Kings 5:14", 
+        "name": "ראשית מלכות שלמה וביסוסה"
+    }, 
+    {
+        "b_ref": "I Kings 5:15", 
+        "e_ref": "I Kings 9:9", 
+        "name": "בניית בית ה' ובית המלך"
+    }, 
+    {
+        "b_ref": "I Kings 9:10", 
+        "e_ref": "I Kings 10:29", 
+        "name": "התעצמות ממלכת שלמה"
+    }, 
+    {
+        "b_ref": "I Kings 11:1", 
+        "e_ref": "I Kings 11:43", 
+        "name": "הידרדרות מלכות שלמה"
+    }, 
+    {
+        "b_ref": "I Kings 12:1", 
+        "e_ref": "I Kings 12:24", 
+        "name": "המלכת רחבעם בשכם"
+    }, 
+    {
+        "b_ref": "I Kings 12:25", 
+        "e_ref": "I Kings 14:20", 
+        "name": "מלכות ירבעם (ישראל)"
+    }, 
+    {
+        "b_ref": "I Kings 14:21", 
+        "e_ref": "I Kings 14:31", 
+        "name": "מלכות רחבעם (יהודה)"
+    }, 
+    {
+        "b_ref": "I Kings 15:1", 
+        "e_ref": "I Kings 15:8", 
+        "name": "מלכות אבים (יהודה)"
+    }, 
+    {
+        "b_ref": "I Kings 15:9", 
+        "e_ref": "I Kings 15:24", 
+        "name": "מלכות אסא (יהודה)"
+    }, 
+    {
+        "b_ref": "I Kings 15:25", 
+        "e_ref": "I Kings 15:32", 
+        "name": "מלכות נדב (ישראל)"
+    }, 
+    {
+        "b_ref": "I Kings 15:33", 
+        "e_ref": "I Kings 16:7", 
+        "name": "מלכות בעשא (ישראל)"
+    }, 
+    {
+        "b_ref": "I Kings 16:8", 
+        "e_ref": "I Kings 16:14", 
+        "name": "מלכות אלה (ישראל)"
+    }, 
+    {
+        "b_ref": "I Kings 16:15", 
+        "e_ref": "I Kings 16:20", 
+        "name": "מלכות זמרי (ישראל)"
+    }, 
+    {
+        "b_ref": "I Kings 16:21", 
+        "e_ref": "I Kings 16:22", 
+        "name": "מאבק בין עמרי לתבני (ישראל)"
+    }, 
+    {
+        "b_ref": "I Kings 16:23", 
+        "e_ref": "I Kings 16:28", 
+        "name": "מלכות עמרי (ישראל)"
+    }, 
+    {
+        "b_ref": "I Kings 16:29", 
+        "e_ref": "I Kings 22:40", 
+        "name": "מלכות אחאב (ישראל)"
+    }, 
+    {
+        "b_ref": "I Kings 22:41", 
+        "e_ref": "I Kings 22:51", 
+        "name": "מלכות יהושפט (יהודה)"
+    }, 
+    {
+        "b_ref": "I Kings 22:52", 
+        "e_ref": "I Kings 22:54", 
+        "name": "מלכות אחזיה (ישראל)"
+    }, 
+    {
+        "b_ref": "I Samuel 1:1", 
+        "e_ref": "I Samuel 3:21", 
+        "name": "לידת שמואל וגדילתו"
+    }, 
+    {
+        "b_ref": "I Samuel 4:1", 
+        "e_ref": "I Samuel 8:22", 
+        "name": "מנהיגות שמואל"
+    }, 
+    {
+        "b_ref": "I Samuel 9:1", 
+        "e_ref": "I Samuel 12:25", 
+        "name": "עליית שאול למלוכה"
+    }, 
+    {
+        "b_ref": "I Samuel 13:1", 
+        "e_ref": "I Samuel 14:52", 
+        "name": "מלחמות שאול"
+    }, 
+    {
+        "b_ref": "I Samuel 15:1", 
+        "e_ref": "I Samuel 18:5", 
+        "name": "נפילת שאול ועליית דוד"
+    }, 
+    {
+        "b_ref": "I Samuel 18:6", 
+        "e_ref": "I Samuel 28:2", 
+        "name": "רדיפת שאול את דוד"
+    }, 
+    {
+        "b_ref": "I Samuel 28:3", 
+        "e_ref": "I Samuel 28:25", 
+        "name": "שאול ובעלת האוב"
+    }, 
+    {
+        "b_ref": "I Samuel 29:1", 
+        "e_ref": "I Samuel 29:11", 
+        "name": "דחיית שרי פלשתים את דוד"
+    }, 
+    {
+        "b_ref": "I Samuel 30:1", 
+        "e_ref": "I Samuel 30:20", 
+        "name": "מלחמת דוד בגדוד העמלקי"
+    }, 
+    {
+        "b_ref": "I Samuel 30:21", 
+        "e_ref": "I Samuel 30:31", 
+        "name": "חלוקת השלל"
+    }, 
+    {
+        "b_ref": "I Samuel 31:1", 
+        "e_ref": "I Samuel 31:13", 
+        "name": "מות שאול ובניו במלחמה"
+    }, 
+    {
+        "b_ref": "II Kings 1:1", 
+        "e_ref": "II Kings 2:18", 
+        "name": "סוף ימי אליהו"
+    }, 
+    {
+        "b_ref": "II Kings 2:19", 
+        "e_ref": "II Kings 2:25", 
+        "name": "ניסי אלישע"
+    }, 
+    {
+        "b_ref": "II Kings 3:1", 
+        "e_ref": "II Kings 3:3", 
+        "name": "מלכות יהורם (ישראל)"
+    }, 
+    {
+        "b_ref": "II Kings 3:4", 
+        "e_ref": "II Kings 8:15", 
+        "name": "ניסי אלישע"
+    }, 
+    {
+        "b_ref": "II Kings 8:16", 
+        "e_ref": "II Kings 8:24", 
+        "name": "מלכות יהורם (יהודה)"
+    }, 
+    {
+        "b_ref": "II Kings 8:25", 
+        "e_ref": "II Kings 8:29", 
+        "name": "מלכות אחזיה (יהודה)"
+    }, 
+    {
+        "b_ref": "II Kings 9:1", 
+        "e_ref": "II Kings 10:36", 
+        "name": "מלכות יהוא (ישראל)"
+    }, 
+    {
+        "b_ref": "II Kings 11:1", 
+        "e_ref": "II Kings 11:20", 
+        "name": "מלכות עתליה והמלכת יואש (יהודה)"
+    }, 
+    {
+        "b_ref": "II Kings 12:1", 
+        "e_ref": "II Kings 12:22", 
+        "name": "מלכות יהואש (יהודה)"
+    }, 
+    {
+        "b_ref": "II Kings 13:1", 
+        "e_ref": "II Kings 13:9", 
+        "name": "מלכות יהואחז (ישראל)"
+    }, 
+    {
+        "b_ref": "II Kings 13:10", 
+        "e_ref": "II Kings 13:25", 
+        "name": "מלכות יהואש (ישראל)"
+    }, 
+    {
+        "b_ref": "II Kings 14:1", 
+        "e_ref": "II Kings 14:22", 
+        "name": "מלכות אמציה (יהודה)"
+    }, 
+    {
+        "b_ref": "II Kings 14:23", 
+        "e_ref": "II Kings 14:29", 
+        "name": "מלכות ירבעם השני (ישראל)"
+    }, 
+    {
+        "b_ref": "II Kings 15:1", 
+        "e_ref": "II Kings 15:7", 
+        "name": "מלכות עוזיה (יהודה)"
+    }, 
+    {
+        "b_ref": "II Kings 15:8", 
+        "e_ref": "II Kings 15:12", 
+        "name": "מלכות זכריה (ישראל)"
+    }, 
+    {
+        "b_ref": "II Kings 15:13", 
+        "e_ref": "II Kings 15:22", 
+        "name": "הריגת שלום ומלכות מנחם (ישראל)"
+    }, 
+    {
+        "b_ref": "II Kings 15:23", 
+        "e_ref": "II Kings 15:26", 
+        "name": "מלכות פקחיה (ישראל)"
+    }, 
+    {
+        "b_ref": "II Kings 15:27", 
+        "e_ref": "II Kings 15:31", 
+        "name": "מלכות פקח (ישראל)"
+    }, 
+    {
+        "b_ref": "II Kings 15:32", 
+        "e_ref": "II Kings 15:38", 
+        "name": "מלכות יותם (יהודה)"
+    }, 
+    {
+        "b_ref": "II Kings 16:1", 
+        "e_ref": "II Kings 16:20", 
+        "name": "מלכות אחז (יהודה)"
+    }, 
+    {
+        "b_ref": "II Kings 17:1", 
+        "e_ref": "II Kings 17:23", 
+        "name": "מלכות הושע וחורבן שומרון"
+    }, 
+    {
+        "b_ref": "II Kings 17:24", 
+        "e_ref": "II Kings 17:41", 
+        "name": "יישוב זרים בערי שומרון"
+    }, 
+    {
+        "b_ref": "II Kings 18:1", 
+        "e_ref": "II Kings 20:21", 
+        "name": "מלכות חזקיהו (יהודה)"
+    }, 
+    {
+        "b_ref": "II Kings 21:1", 
+        "e_ref": "II Kings 21:18", 
+        "name": "מלכות מנשה"
+    }, 
+    {
+        "b_ref": "II Kings 21:19", 
+        "e_ref": "II Kings 21:26", 
+        "name": "מלכות אמון"
+    }, 
+    {
+        "b_ref": "II Kings 22:1", 
+        "e_ref": "II Kings 23:30", 
+        "name": "מלכות יאשיהו"
+    }, 
+    {
+        "b_ref": "II Kings 23:31", 
+        "e_ref": "II Kings 23:35", 
+        "name": "מלכות יהואחז"
+    }, 
+    {
+        "b_ref": "II Kings 23:36", 
+        "e_ref": "II Kings 24:7", 
+        "name": "מלכות יהויקים"
+    }, 
+    {
+        "b_ref": "II Kings 24:8", 
+        "e_ref": "II Kings 24:17", 
+        "name": "מלכות יהויכין"
+    }, 
+    {
+        "b_ref": "II Kings 24:18", 
+        "e_ref": "II Kings 25:7", 
+        "name": "מלכות צדקיהו"
+    }, 
+    {
+        "b_ref": "II Kings 25:8", 
+        "e_ref": "II Kings 25:21", 
+        "name": "חורבן המקדש וגלות בבל"
+    }, 
+    {
+        "b_ref": "II Kings 25:22", 
+        "e_ref": "II Kings 25:26", 
+        "name": "הפקדת גדליה על שארית יהודה"
+    }, 
+    {
+        "b_ref": "II Kings 25:27", 
+        "e_ref": "II Kings 25:30", 
+        "name": "שחרור יהויכין"
+    }, 
+    {
+        "b_ref": "II Samuel 1:1", 
+        "e_ref": "II Samuel 1:16", 
+        "name": "סיפור מות שאול"
+    }, 
+    {
+        "b_ref": "II Samuel 1:17", 
+        "e_ref": "II Samuel 1:27", 
+        "name": "קינת דוד"
+    }, 
+    {
+        "b_ref": "II Samuel 2:1", 
+        "e_ref": "II Samuel 2:7", 
+        "name": "משיחת דוד למלך יהודה"
+    }, 
+    {
+        "b_ref": "II Samuel 2:8", 
+        "e_ref": "II Samuel 2:11", 
+        "name": "המלכת איש בשת"
+    }, 
+    {
+        "b_ref": "II Samuel 2:12", 
+        "e_ref": "II Samuel 2:32", 
+        "name": "המלחמה על הבריכה בגבעון"
+    }, 
+    {
+        "b_ref": "II Samuel 3:1", 
+        "e_ref": "II Samuel 3:5", 
+        "name": "בני דוד שנולדו בחברון"
+    }, 
+    {
+        "b_ref": "II Samuel 3:6", 
+        "e_ref": "II Samuel 3:21", 
+        "name": "ברית אבנר ודוד"
+    }, 
+    {
+        "b_ref": "II Samuel 3:22", 
+        "e_ref": "II Samuel 3:39", 
+        "name": "הריגת אבנר"
+    }, 
+    {
+        "b_ref": "II Samuel 4:1", 
+        "e_ref": "II Samuel 4:12", 
+        "name": "הריגת איש בשת"
+    }, 
+    {
+        "b_ref": "II Samuel 5:1", 
+        "e_ref": "II Samuel 5:25", 
+        "name": "משיחת דוד למלך ישראל"
+    }, 
+    {
+        "b_ref": "II Samuel 6:1", 
+        "e_ref": "II Samuel 6:23", 
+        "name": "העלאת הארון לירושלים"
+    }, 
+    {
+        "b_ref": "II Samuel 7:1", 
+        "e_ref": "II Samuel 7:17", 
+        "name": "חזון נתן"
+    }, 
+    {
+        "b_ref": "II Samuel 7:18", 
+        "e_ref": "II Samuel 7:29", 
+        "name": "תפילת דוד"
+    }, 
+    {
+        "b_ref": "II Samuel 8:1", 
+        "e_ref": "II Samuel 8:15", 
+        "name": "נצחונות דוד"
+    }, 
+    {
+        "b_ref": "II Samuel 8:16", 
+        "e_ref": "II Samuel 8:18", 
+        "name": "מינוי תפקידים בממלכה"
+    }, 
+    {
+        "b_ref": "II Samuel 9:1", 
+        "e_ref": "II Samuel 9:13", 
+        "name": "חסד דוד עם מפיבשת"
+    }, 
+    {
+        "b_ref": "II Samuel 10:1", 
+        "e_ref": "II Samuel 10:19", 
+        "name": "המלחמה בבני עמון"
+    }, 
+    {
+        "b_ref": "II Samuel 11:1", 
+        "e_ref": "II Samuel 12:31", 
+        "name": "חטא דוד ובת שבע"
+    }, 
+    {
+        "b_ref": "II Samuel 13:1", 
+        "e_ref": "II Samuel 14:33", 
+        "name": "אמנון, תמר ואבשלום"
+    }, 
+    {
+        "b_ref": "II Samuel 15:1", 
+        "e_ref": "II Samuel 19:44", 
+        "name": "מרד אבשלום"
+    }, 
+    {
+        "b_ref": "II Samuel 20:1", 
+        "e_ref": "II Samuel 20:25", 
+        "name": "מרד שבע בן בכרי"
+    }, 
+    {
+        "b_ref": "II Samuel 21:1", 
+        "e_ref": "II Samuel 21:14", 
+        "name": "הרעב והגבעונים"
+    }, 
+    {
+        "b_ref": "II Samuel 21:15", 
+        "e_ref": "II Samuel 21:22", 
+        "name": "מעשי גבורה של דוד ואנשיו"
+    }, 
+    {
+        "b_ref": "II Samuel 22:1", 
+        "e_ref": "II Samuel 22:51", 
+        "name": "שירת דוד"
+    }, 
+    {
+        "b_ref": "II Samuel 23:1", 
+        "e_ref": "II Samuel 23:7", 
+        "name": "דברי דוד האחרונים"
+    }, 
+    {
+        "b_ref": "II Samuel 23:8", 
+        "e_ref": "II Samuel 23:39", 
+        "name": "גיבורי דוד"
+    }, 
+    {
+        "b_ref": "II Samuel 24:1", 
+        "e_ref": "II Samuel 24:25", 
+        "name": "מפקד העם והמגפה"
+    }, 
+    {
+        "b_ref": "Joshua 1:1", 
+        "e_ref": "Joshua 1:18", 
+        "name": "הכנות לקראת הכניסה לארץ"
+    }, 
+    {
+        "b_ref": "Joshua 2:1", 
+        "e_ref": "Joshua 2:24", 
+        "name": "המרגלים ביריחו"
+    }, 
+    {
+        "b_ref": "Joshua 3:1", 
+        "e_ref": "Joshua 5:1", 
+        "name": "חציית הירדן"
+    }, 
+    {
+        "b_ref": "Joshua 5:2", 
+        "e_ref": "Joshua 5:15", 
+        "name": "מעמדים"
+    }, 
+    {
+        "b_ref": "Joshua 6:1", 
+        "e_ref": "Joshua 6:27", 
+        "name": "כיבוש יריחו"
+    }, 
+    {
+        "b_ref": "Joshua 7:1", 
+        "e_ref": "Joshua 8:29", 
+        "name": "מלחמות העי"
+    }, 
+    {
+        "b_ref": "Joshua 8:30", 
+        "e_ref": "Joshua 8:35", 
+        "name": "מעמד הברכה והקללה"
+    }, 
+    {
+        "b_ref": "Joshua 9:1", 
+        "e_ref": "Joshua 9:27", 
+        "name": "הגבעונים"
+    }, 
+    {
+        "b_ref": "Joshua 10:1", 
+        "e_ref": "Joshua 10:43", 
+        "name": "מלחמת מלכי הדרום"
+    }, 
+    {
+        "b_ref": "Joshua 11:1", 
+        "e_ref": "Joshua 11:11", 
+        "name": "מלחמת מלכי הצפון"
+    }, 
+    {
+        "b_ref": "Joshua 11:12", 
+        "e_ref": "Joshua 12:24", 
+        "name": "סיכומי הכיבושים"
+    }, 
+    {
+        "b_ref": "Joshua 13:1", 
+        "e_ref": "Joshua 13:6", 
+        "name": "הארץ הנשארת"
+    }, 
+    {
+        "b_ref": "Joshua 13:7", 
+        "e_ref": "Joshua 13:33", 
+        "name": "נחלות שבטי עבר הירדן"
+    }, 
+    {
+        "b_ref": "Joshua 14:1", 
+        "e_ref": "Joshua 17:17", 
+        "name": "נחלות שבטי יהודה ויוסף"
+    }, 
+    {
+        "b_ref": "Joshua 18:1", 
+        "e_ref": "Joshua 19:51", 
+        "name": "נחלות יתר שבעת השבטים"
+    }, 
+    {
+        "b_ref": "Joshua 20:1", 
+        "e_ref": "Joshua 20:9", 
+        "name": "ערי מקלט"
+    }, 
+    {
+        "b_ref": "Joshua 21:1", 
+        "e_ref": "Joshua 21:43", 
+        "name": "ערי הלויים"
+    }, 
+    {
+        "b_ref": "Joshua 22:1", 
+        "e_ref": "Joshua 22:34", 
+        "name": "המזבח בעבר הירדן"
+    }, 
+    {
+        "b_ref": "Joshua 23:1", 
+        "e_ref": "Joshua 23:16", 
+        "name": "נאום יהושע לפני מותו"
+    }, 
+    {
+        "b_ref": "Joshua 24:1", 
+        "e_ref": "Joshua 24:28", 
+        "name": "הנאום בשכם"
+    }, 
+    {
+        "b_ref": "Joshua 24:29", 
+        "e_ref": "Joshua 24:33", 
+        "name": "מות יהושע וסיכום התקופה"
+    }, 
+    {
+        "b_ref": "Judges 1:1", 
+        "e_ref": "Judges 1:21", 
+        "name": "כיבושי יהודה ושמעון"
+    }, 
+    {
+        "b_ref": "Judges 1:22", 
+        "e_ref": "Judges 1:26", 
+        "name": "כיבוש בית אל"
+    }, 
+    {
+        "b_ref": "Judges 1:27", 
+        "e_ref": "Judges 1:36", 
+        "name": "הערים הכנעניות שלא נכבשו"
+    }, 
+    {
+        "b_ref": "Judges 2:1", 
+        "e_ref": "Judges 2:5", 
+        "name": "תוכחת מלאך ה' בבוכים"
+    }, 
+    {
+        "b_ref": "Judges 2:6", 
+        "e_ref": "Judges 2:10", 
+        "name": "סיכום ימי יהושע ומות יהושע"
+    }, 
+    {
+        "b_ref": "Judges 2:11", 
+        "e_ref": "Judges 3:6", 
+        "name": "מבוא לתקופת השופטים"
+    }, 
+    {
+        "b_ref": "Judges 3:7", 
+        "e_ref": "Judges 3:11", 
+        "name": "עתניאל בן קנז"
+    }, 
+    {
+        "b_ref": "Judges 3:12", 
+        "e_ref": "Judges 3:30", 
+        "name": "אהוד בן גרא"
+    }, 
+    {
+        "b_ref": "Judges 3:31", 
+        "e_ref": "Judges 3:31", 
+        "name": "שמגר בן ענת"
+    }, 
+    {
+        "b_ref": "Judges 4:1", 
+        "e_ref": "Judges 5:31", 
+        "name": "דבורה"
+    }, 
+    {
+        "b_ref": "Judges 6:1", 
+        "e_ref": "Judges 8:32", 
+        "name": "גדעון"
+    }, 
+    {
+        "b_ref": "Judges 8:33", 
+        "e_ref": "Judges 9:57", 
+        "name": "אבימלך"
+    }, 
+    {
+        "b_ref": "Judges 10:1", 
+        "e_ref": "Judges 10:5", 
+        "name": "תולע בן פואה ויאיר הגלעדי"
+    }, 
+    {
+        "b_ref": "Judges 10:6", 
+        "e_ref": "Judges 12:7", 
+        "name": "יפתח"
+    }, 
+    {
+        "b_ref": "Judges 12:8", 
+        "e_ref": "Judges 12:15", 
+        "name": "אבצן, אילון ועבדון"
+    }, 
+    {
+        "b_ref": "Judges 13:1", 
+        "e_ref": "Judges 16:31", 
+        "name": "שמשון"
+    }, 
+    {
+        "b_ref": "Judges 17:1", 
+        "e_ref": "Judges 18:31", 
+        "name": "פסל מיכה"
+    }, 
+    {
+        "b_ref": "Judges 19:1", 
+        "e_ref": "Judges 21:25", 
+        "name": "פילגש בגבעה"
+    }, 
+    {
+        "b_ref": "Leviticus 1:1", 
+        "e_ref": "Leviticus 5:26", 
+        "name": "ציוויי הקרבנות לישראל"
+    }, 
+    {
+        "b_ref": "Leviticus 6:1", 
+        "e_ref": "Leviticus 7:38", 
+        "name": "ציוויי הקרבנות לכהנים"
+    }, 
+    {
+        "b_ref": "Leviticus 8:1", 
+        "e_ref": "Leviticus 8:36", 
+        "name": "שבעת ימי המילואים"
+    }, 
+    {
+        "b_ref": "Leviticus 9:1", 
+        "e_ref": "Leviticus 10:20", 
+        "name": "היום השמיני"
+    }, 
+    {
+        "b_ref": "Leviticus 11:1", 
+        "e_ref": "Leviticus 11:47", 
+        "name": "טומאת בעלי חיים"
+    }, 
+    {
+        "b_ref": "Leviticus 12:1", 
+        "e_ref": "Leviticus 12:8", 
+        "name": "טומאת יולדת"
+    }, 
+    {
+        "b_ref": "Leviticus 13:1", 
+        "e_ref": "Leviticus 14:57", 
+        "name": "טומאת הצרעת"
+    }, 
+    {
+        "b_ref": "Leviticus 15:1", 
+        "e_ref": "Leviticus 15:33", 
+        "name": "טומאות הגוף"
+    }, 
+    {
+        "b_ref": "Leviticus 16:1", 
+        "e_ref": "Leviticus 16:34", 
+        "name": "עבודת יום הכיפורים"
+    }, 
+    {
+        "b_ref": "Leviticus 17:1", 
+        "e_ref": "Leviticus 17:16", 
+        "name": "דיני דם בעלי חיים"
+    }, 
+    {
+        "b_ref": "Leviticus 18:1", 
+        "e_ref": "Leviticus 18:30", 
+        "name": "איסורי עריות"
+    }, 
+    {
+        "b_ref": "Leviticus 19:1", 
+        "e_ref": "Leviticus 19:37", 
+        "name": "קדושים תהיו"
+    }, 
+    {
+        "b_ref": "Leviticus 20:1", 
+        "e_ref": "Leviticus 20:27", 
+        "name": "עונשי החוטאים"
+    }, 
+    {
+        "b_ref": "Leviticus 21:1", 
+        "e_ref": "Leviticus 21:24", 
+        "name": "קדושת הכהנים"
+    }, 
+    {
+        "b_ref": "Leviticus 22:1", 
+        "e_ref": "Leviticus 22:33", 
+        "name": "שמירת קודשי בני ישראל"
+    }, 
+    {
+        "b_ref": "Leviticus 23:1", 
+        "e_ref": "Leviticus 23:44", 
+        "name": "קדושת הזמנים"
+    }, 
+    {
+        "b_ref": "Leviticus 24:1", 
+        "e_ref": "Leviticus 24:23", 
+        "name": ""
+    }, 
+    {
+        "b_ref": "Leviticus 25:1", 
+        "e_ref": "Leviticus 26:2", 
+        "name": "שמיטה ויובל"
+    }, 
+    {
+        "b_ref": "Leviticus 26:3", 
+        "e_ref": "Leviticus 26:46", 
+        "name": "הברכה והקללה"
+    }, 
+    {
+        "b_ref": "Leviticus 27:1", 
+        "e_ref": "Leviticus 27:34", 
+        "name": "דיני הקדשות"
+    }, 
+    {
+        "b_ref": "Numbers 1:1", 
+        "e_ref": "Numbers 4:49", 
+        "name": "מפקדים והכנות למסע"
+    }, 
+    {
+        "b_ref": "Numbers 5:1", 
+        "e_ref": "Numbers 6:27", 
+        "name": "מצוות"
+    }, 
+    {
+        "b_ref": "Numbers 7:1", 
+        "e_ref": "Numbers 10:34", 
+        "name": "חנוכת המשכן והכנות למסע"
+    }, 
+    {
+        "b_ref": "Numbers 10:35", 
+        "e_ref": "Numbers 10:36", 
+        "name": "היציאה למסע"
+    }, 
+    {
+        "b_ref": "Numbers 11:1", 
+        "e_ref": "Numbers 14:45", 
+        "name": "התלונות במסע מהר סיני"
+    }, 
+    {
+        "b_ref": "Numbers 15:1", 
+        "e_ref": "Numbers 15:41", 
+        "name": "מצוות"
+    }, 
+    {
+        "b_ref": "Numbers 16:1", 
+        "e_ref": "Numbers 17:28", 
+        "name": " קרח ועדתו"
+    }, 
+    {
+        "b_ref": "Numbers 18:1", 
+        "e_ref": "Numbers 18:32", 
+        "name": "מצוות הכהנים והלויים"
+    }, 
+    {
+        "b_ref": "Numbers 19:1", 
+        "e_ref": "Numbers 19:10", 
+        "name": "הכנת אפר פרה אדומה"
+    }, 
+    {
+        "b_ref": "Numbers 19:11", 
+        "e_ref": "Numbers 19:22", 
+        "name": "טהרת טמאי מתים"
+    }, 
+    {
+        "b_ref": "Numbers 20:1", 
+        "e_ref": "Numbers 20:6", 
+        "name": "מות מרים ותלונת העם"
+    }, 
+    {
+        "b_ref": "Numbers 20:7", 
+        "e_ref": "Numbers 20:13", 
+        "name": "מי מריבה - החטא ותוצאותיו"
+    }, 
+    {
+        "b_ref": "Numbers 20:14", 
+        "e_ref": "Numbers 20:21", 
+        "name": "הנסיון לעבור בארץ אדום"
+    }, 
+    {
+        "b_ref": "Numbers 20:22", 
+        "e_ref": "Numbers 20:29", 
+        "name": "מות אהרן ומינוי אלעזר"
+    }, 
+    {
+        "b_ref": "Numbers 21:1", 
+        "e_ref": "Numbers 21:3", 
+        "name": "המלחמה במלך ערד"
+    }, 
+    {
+        "b_ref": "Numbers 21:4", 
+        "e_ref": "Numbers 21:9", 
+        "name": "תלונת העם ונחש הנחושת"
+    }, 
+    {
+        "b_ref": "Numbers 21:10", 
+        "e_ref": "Numbers 21:20", 
+        "name": "המסעות ושירת הבאר"
+    }, 
+    {
+        "b_ref": "Numbers 21:21", 
+        "e_ref": "Numbers 21:35", 
+        "name": "המלחמה בסיחון ועוג"
+    }, 
+    {
+        "b_ref": "Numbers 22:1", 
+        "e_ref": "Numbers 25:18", 
+        "name": "בלעם ועצתו"
+    }, 
+    {
+        "b_ref": "Numbers 26:1", 
+        "e_ref": "Numbers 27:23", 
+        "name": "הכנות לקראת ההתנחלות"
+    }, 
+    {
+        "b_ref": "Numbers 28:1", 
+        "e_ref": "Numbers 30:17", 
+        "name": "מצוות"
+    }, 
+    {
+        "b_ref": "Numbers 31:1", 
+        "e_ref": "Numbers 31:54", 
+        "name": "המלחמה במדין"
+    }, 
+    {
+        "b_ref": "Numbers 32:1", 
+        "e_ref": "Numbers 36:13", 
+        "name": "הכנות אחרונות לקראת הכניסה לארץ"
+    }
+]
