@@ -58,7 +58,6 @@ with codecs.open("mikra-morph.txt.withnikudnew.txt", 'rb', encoding='utf8') as f
 
 
     for line in file_read:
-        # print line
 
         if line == u'\r\n':
             end_of_verse = not end_of_verse
@@ -69,13 +68,13 @@ with codecs.open("mikra-morph.txt.withnikudnew.txt", 'rb', encoding='utf8') as f
             perek.append(pasuk)
             pasuk = []
 
+            new_book_title = u" ".join(words[:-2]) if len(words) > 3 else words[0]
             new_perek_num = words[-2]
-            if new_perek_num != perek_num:
+            if new_perek_num != perek_num or new_book_title != book_title:
                 book.append(perek)
                 perek = []
                 perek_num = new_perek_num
 
-            new_book_title = u" ".join(words[:-2]) if len(words) > 3 else words[0]
             if new_book_title != book_title:
                 books[book_title] = book
                 book = []
@@ -88,21 +87,18 @@ with codecs.open("mikra-morph.txt.withnikudnew.txt", 'rb', encoding='utf8') as f
             index = line.find(u"=")
 
             if index is not -1:
-                pasuk.append(getWord(line[b_index:index], line[:b_index-1]))
+                pasuk.append(getShoresh(line, index))
             else:
                 index = line.find(u"/_")
                 if index is not -1:
-                    pasuk.append(getWord(line[b_index:index], line[:b_index-1]))
+                  pasuk.append(getShoresh(line, index))
                 else:
                     index = line.find(u"[")
                     if index is not -1:
-                        pasuk.append(getWord(line[b_index:index], line[:b_index-1]))
+                        pasuk.append(getShoresh(line, index))
 
 
-
-
-
-    with codecs.open("suffix_tanakh.json", 'wb', encoding='utf8') as file_write:
+    with codecs.open("whole_tanakh.json", 'wb', encoding='utf8') as file_write:
         json.dump(books, file_write, ensure_ascii=False, indent=4)
 
     #     exact_words = wo_preps.write(stripNikkud(line))
