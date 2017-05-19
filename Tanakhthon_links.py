@@ -93,8 +93,8 @@ def get_ketaim():
     in_json = json.load(fp, encoding='utf8')
 
 
-def get_miktaim():
-    for file_name in glob.glob("data/herzog_ketaim_json/*level{}.json".format(2)):
+def get_miktaim(level):
+    for file_name in glob.glob("data/herzog_ketaim_json/*level{}.json".format(level)):
 
         print file_name
         with codecs.open(file_name, 'rb', encoding='utf8') as fp2:
@@ -108,7 +108,7 @@ def get_miktaim():
     return json_obj
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
     # ind = library.get_index('Genesis')
     # mktaim = []
     # for seg in ind.all_section_refs():
@@ -116,15 +116,18 @@ if __name__ == "__main__":
     #     sections = seg.sections
     #     mkt = u'{} {}'.format(title, sections)
     #     mktaim.append(mkt)
-    min_ref_insec = 100
-    min_sheet_insec = 2
-    # mktaim, names = get_miktaim()
-    mktaim = get_miktaim()
-    for i, mkt1 in enumerate(mktaim):
-        for mkt2 in mktaim[i+1:]:
-            ref_insec, sheet_insec = katov_3_linked(mkt1['ref'], mkt2['ref'])
-            if (len(ref_insec) > min_ref_insec and len(sheet_insec) > min_sheet_insec):
-                print mkt1['name'], mkt1['ref'], mkt2['name'], mkt2['ref']
-                print 'segments linked ' + str(len(ref_insec))
-                print 'segment sheets ' + str(len(sheet_insec))
+min_ref_insec = 100
+min_sheet_insec = 2
+# mktaim, names = get_miktaim()
+mktaim = get_miktaim(2)
+for i, mkt1 in enumerate(mktaim):
+    for mkt2 in mktaim[i+1:]:
+        ref_insec, sheet_insec = katov_3_linked(mkt1['ref'], mkt2['ref'])
+        if (len(ref_insec) > min_ref_insec and len(sheet_insec) > min_sheet_insec):
+            print mkt1['name'], mkt1['ref'], mkt2['name'], mkt2['ref']
+            print 'segments linked ' + str(len(ref_insec))
+            print 'segment sheets ' + str(len(sheet_insec))
 
+
+# ketah
+#
